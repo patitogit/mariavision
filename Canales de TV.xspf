@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Canales de TV</title>
+	<trackList>
+		<track>
+			<location>https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8</location>
+			<title>Maria+Vision Mexico</title>
+			<duration>14013</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8</location>
+			<title>Multimedios Guadalajara</title>
+			<duration>40039</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8</location>
+			<title>TV UNAM</title>
+			<duration>30397</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8</location>
+			<title>TV Familia</title>
+			<duration>29529</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
