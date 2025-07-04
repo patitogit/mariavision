@@ -38,11 +38,21 @@
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
+		<track>
+			<location>https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8</location>
+			<title>Las Estrellas</title>
+			<duration>29529</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
 		<vlc:item tid="1"/>
 		<vlc:item tid="2"/>
 		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
 	</extension>
 </playlist>
