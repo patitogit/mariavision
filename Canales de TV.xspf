@@ -84,8 +84,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://live.eu-north-1a.cf.dmcdn.net/sec2%28wCCL2Rdj4pPWQeJ_4oMCOG_GzrdTTobqxScXD6QotvVDhx_CHHM1FtC2utUh-dXfrl4eo1IeNN6mYlxYusE-AYUz_uu9sH9gaJhDllMrKud7QPUbo5AeUlZH0G7jWtv4%29/dm/3/x8j2nmp/d/live-720.m3u8
-</location>
+			<location>https://live.eu-north-1a.cf.dmcdn.net/sec2(hwnfvyxKF6kCetgTZ5Sz5MMUYVxkqyO1TUBze0fy2fB6DP0FrG21OOqzCU5OtHt5WRGK0GxO601axEwvIVoTmgQahYSzyHh10QIjlr1QXetDl_O-XkRlAaHccdyp83Qp)/dm/3/x8j2nmp/d/live-720.m3u8</location>
 			<title>Imagen TV en vivo</title>
 			<duration>29529</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
