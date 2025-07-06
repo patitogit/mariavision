@@ -22,7 +22,7 @@
 		</track>
 		<track>
 			<location>https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8</location>
-			<title>TV UNAM</title>
+			<title>TV UNAM en vivo</title>
 			<duration>30397</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>2</vlc:id>
