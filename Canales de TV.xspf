@@ -1,10 +1,11 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
 	<title>Canales de TV</title>
 	<trackList>
 		<track>
 			<location>https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8</location>
-			<title>Maria+Vision Mexico en vivo</title>
+			<title>Maria+Vision Mexico</title>
 			<duration>14013</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
@@ -13,7 +14,7 @@
 		</track>
 		<track>
 			<location>https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8</location>
-			<title>Multimedios Guadalajara en vivo</title>
+			<title>Multimedios Guadalajara</title>
 			<duration>40039</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>1</vlc:id>
@@ -22,7 +23,7 @@
 		</track>
 		<track>
 			<location>https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8</location>
-			<title>TV UNAM en vivo</title>
+			<title>TV UNAM</title>
 			<duration>30397</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>2</vlc:id>
@@ -31,7 +32,7 @@
 		</track>
 		<track>
 			<location>https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8</location>
-			<title>TV Familia en vivo</title>
+			<title>TV Familia</title>
 			<duration>29529</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>3</vlc:id>
@@ -40,48 +41,13 @@
 		</track>
 		<track>
 			<location>https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8</location>
-			<title>Las Estrellas en vivo</title>
+			<title>Las Estrellas</title>
 			<duration>29529</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>4</vlc:id>
+				<vlc:id>3</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
-		<track>
-			<location>https://www.youtube.com/watch?v=Jl9w6yZ2IEo</location>
-			<title>Televisa Guadalajara en vivo (youtube)</title>
-			<duration>29529</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>5</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8</location>
-			<title>Azteca 7 en vivo</title>
-			<duration>29529</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>6</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8</location>
-			<title>Azteca UNO en vivo</title>
-			<duration>29529</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>7</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>https://azt-mun.otteravision.com/azt/mun/mun.m3u8</location>
-			<title>Azteca Internacional en vivo</title>
-			<duration>29529</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>8</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
@@ -89,7 +55,5 @@
 		<vlc:item tid="2"/>
 		<vlc:item tid="3"/>
 		<vlc:item tid="4"/>
-		<vlc:item tid="5"/>
-		<vlc:item tid="6"/>
 	</extension>
 </playlist>
