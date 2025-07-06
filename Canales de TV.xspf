@@ -82,6 +82,16 @@
 				<vlc:id>8</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
+		</track>
+		<track>
+			<location>https://live.eu-north-1a.cf.dmcdn.net/sec2(5RbzkN8S0-BtWQRwcUTtGOFpJvfM96F4hk2b_eXV_hGGp1OuqD1PcO0I7KfTER4p8pWoQCJ00tia2aItgRd-2BYmq-sG1JE-pbGhKnS7qwYmKH6yBe-0N7Uv7EHE6AaG)/dm/3/x8j2nmp/d/live-720.m3u8#cell=lcf-eu-north-1a</location>
+			<title>Imagen TV en vivo</title>
+			<duration>29529</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
@@ -93,5 +103,6 @@
 		<vlc:item tid="6"/>
 		<vlc:item tid="7"/>
 		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
 	</extension>
 </playlist>
