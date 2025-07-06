@@ -83,15 +83,7 @@
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
-		<track>
-			<location>https://www.imagentv.com/en-vivo</location>
-			<title>Imagen TV en vivo</title>
-			<duration>29529</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>9</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
+
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
