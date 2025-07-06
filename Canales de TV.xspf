@@ -61,7 +61,7 @@
 			<title>Azteca 7 en vivo</title>
 			<duration>29529</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>6</vlc:id>
+				<vlc:id>4</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
