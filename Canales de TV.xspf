@@ -57,8 +57,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>	
-			https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8</location>
+			<location>https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8</location>
 			<title>Azteca 7 en vivo</title>
 			<duration>29529</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
