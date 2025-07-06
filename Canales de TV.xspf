@@ -65,6 +65,15 @@
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
+		<track>
+			<location>https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8</location>
+			<title>Azteca UNO en vivo</title>
+			<duration>29529</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
@@ -74,5 +83,6 @@
 		<vlc:item tid="4"/>
 		<vlc:item tid="5"/>
 		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
 	</extension>
 </playlist>
