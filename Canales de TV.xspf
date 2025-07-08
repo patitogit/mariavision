@@ -93,7 +93,7 @@
 			</extension>
 		</track>
 		<track>
-			<title>Multimedios Guadalajara en vivo (youtube)</title>
+			<title>Canal 5 en vivo</title>
 			<location>http://freeiptv.ottc.xyz:80/live/963833235997/531152194543/552823.m3u8</location>
 			<duration>60001</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
