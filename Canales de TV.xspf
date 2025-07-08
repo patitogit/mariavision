@@ -92,6 +92,15 @@
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
+		<track>
+			<title>Multimedios Guadalajara en vivo (youtube)</title>
+			<location>http://freeiptv.ottc.xyz:80/live/963833235997/531152194543/552823.m3u8</location>
+			<duration>60001</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>http-user-agent=Lavf53.32.100</vlc:option>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
@@ -104,5 +113,6 @@
 		<vlc:item tid="7"/>
 		<vlc:item tid="8"/>
 		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
 	</extension>
 </playlist>
