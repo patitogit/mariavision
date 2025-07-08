@@ -93,8 +93,8 @@
 			</extension>
 		</track>
 		<track>
-			<title>Canal 5 en vivo</title>
 			<location>http://freeiptv.ottc.xyz:80/live/963833235997/531152194543/552823.m3u8</location>
+			<title>Canal 5 en vivo</title>
 			<duration>60001</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>10</vlc:id>
@@ -113,5 +113,6 @@
 		<vlc:item tid="7"/>
 		<vlc:item tid="8"/>
 		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
 	</extension>
 </playlist>
