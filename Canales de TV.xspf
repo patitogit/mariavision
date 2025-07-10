@@ -93,8 +93,8 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://freeiptv.ottc.xyz:80/live/963833235997/531152194543/552823.m3u8</location>
-			<title>Canal 5 en vivo</title>
+			<location>https://www.youtube.com/watch?v=5fJp8WQUGqA</location>
+			<title>N+Guadalajara en vivo (youtube)</title>
 			<duration>60001</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>10</vlc:id>
