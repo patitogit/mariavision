@@ -94,7 +94,7 @@
 		</track>
 		<track>
 			<location>https://www.youtube.com/watch?v=5fJp8WQUGqA</location>
-			<title>N+Guadalajara en vivo (youtube)</title>
+			<title>N+ Guadalajara en vivo (youtube)</title>
 			<duration>60001</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>10</vlc:id>
