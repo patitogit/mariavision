@@ -93,8 +93,8 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://www.youtube.com/live/5fJp8WQUGqA</location>
-			<title>N+ Guadalajara en vivo (youtube)</title>
+			<location>https://www.youtube.com/watch?v=p2AzyIEuFak</location>
+			<title>Foro TV en vivo (youtube)</title>
 			<duration>29529</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>10</vlc:id>
