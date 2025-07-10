@@ -98,7 +98,7 @@
 			<duration>60001</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>10</vlc:id>
-				<vlc:option>http-user-agent=Lavf53.32.100</vlc:option>
+				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
 	</trackList>
