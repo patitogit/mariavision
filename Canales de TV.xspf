@@ -110,6 +110,15 @@
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
+		<track>
+			<location>https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8</location>
+			<title>DW en español en vivo</title>
+			<duration>29529</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
