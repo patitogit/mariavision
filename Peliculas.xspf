@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Canales de TV</title>
+	<trackList>
+		<track>
+			<location>http://smarterstv99.dyndns.tv:25461/movie/Y8HB4V3Z5D/vcqRXHytqYkc/525349.mp4</location>
+			<title>Los 4 Fantasticos (Cam Español)</title>
+			<duration>29529</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://smarterstv99.dyndns.tv:25461/movie/Y8HB4V3Z5D/vcqRXHytqYkc/525111.mp4</location>
+			<title>Superman (Cam Español)</title>
+			<duration>29529</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://smarterstv99.dyndns.tv:25461/movie/Y8HB4V3Z5D/vcqRXHytqYkc/524469.mp4</location>
+			<title>F1 La Pelicula (Cam Español)</title>
+			<duration>29529</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://smarterstv99.dyndns.tv:25461/movie/Y8HB4V3Z5D/vcqRXHytqYkc/519077.mp4</location>
+			<title>Mision Imposible: Sentencia Final (Cam Español)</title>
+			<duration>29529</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://smarterstv99.dyndns.tv:25461/movie/Y8HB4V3Z5D/vcqRXHytqYkc/524898.mp4</location>
+			<title>Jurassic World Renace (Cam Español)</title>
+			<duration>29529</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://smarterstv99.dyndns.tv:25461/movie/Y8HB4V3Z5D/vcqRXHytqYkc/522248.mp4</location>
+			<title>28 Years Later (Cam Español)</title>
+			<duration>29529</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://smarterstv99.dyndns.tv:25461/movie/Y8HB4V3Z5D/vcqRXHytqYkc/525239.mp4</location>
+			<title>Se Lo Que Hicieron El Verano Pasado (Cam Español)</title>
+			<duration>29529</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://smarterstv99.dyndns.tv:25461/movie/Y8HB4V3Z5D/vcqRXHytqYkc/525238.mp4</location>
+			<title>Pitufos (Cam Español)</title>
+			<duration>29529</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+	</extension>
+</playlist>
