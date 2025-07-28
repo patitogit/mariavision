@@ -74,6 +74,15 @@
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
+		<track>
+			<location>https://download1529.mediafire.com/t83o3czfm6zguofJ6hQCf4ehxS492u9SK_FCczLgmuaBNqAyb5nevhvIrWMOBGjgDzX0wSAO_PzyXWyTTvHbUY9UnYHck525eTTG1GP55-DrTYfXk1ZsfxaegZRcDlFuNpJxKxj-4s6mRQVTuwRD-B91Ntzy1y6tyTbiBpQQC02ZEQ/ixq41gfezjk3plf/fantasticos.mp4</location>
+			<title>*prueba*-no usar</title>
+			<duration>29529</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
