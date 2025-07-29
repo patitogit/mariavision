@@ -48,15 +48,6 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://smarterstv99.dyndns.tv:25461/movie/Y8HB4V3Z5D/vcqRXHytqYkc/522248.mp4</location>
-			<title>28 Years Later (Cam Español)</title>
-			<duration>29529</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>10</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
 			<location>http://smarterstv99.dyndns.tv:25461/movie/Y8HB4V3Z5D/vcqRXHytqYkc/525239.mp4</location>
 			<title>Se Lo Que Hicieron El Verano Pasado (Cam Español)</title>
 			<duration>29529</duration>
