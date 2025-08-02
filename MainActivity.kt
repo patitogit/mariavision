@@ -13,6 +13,7 @@ import android.util.Log
 import android.view.*
 import android.view.inputmethod.EditorInfo
 import android.view.inputmethod.InputMethodManager
+import android.webkit.*
 import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
 import org.videolan.libvlc.*
@@ -23,18 +24,8 @@ import java.net.URL
 import kotlin.concurrent.thread
 import java.io.File
 import androidx.core.content.ContextCompat
-import java.io.IOException
-import org.xmlpull.v1.XmlPullParserException
-import retrofit2.http.GET // This is crucial for @GET
-import retrofit2.http.Query // This is crucial for @Query
-// === NUEVAS IMPORTACIONES PARA TMDB, RETROFIT Y GSON ===
-import com.google.gson.annotations.SerializedName
-import retrofit2.Call
-import retrofit2.Callback
-import retrofit2.Response
-import retrofit2.Retrofit
-import retrofit2.converter.gson.GsonConverterFactory
-// =======================================================
+import java.io.IOException // Asegúrate de que estas dos importaciones estén presentes
+import org.xmlpull.v1.XmlPullParserException // para el manejo de errores en loadChannels
 
 class MainActivity : AppCompatActivity() {
 
@@ -45,23 +36,21 @@ class MainActivity : AppCompatActivity() {
     private lateinit var loadingIndicator: ProgressBar
     private lateinit var videoPlaceholder: View
 
-    private lateinit var pauseOverlay: TextView
-    private lateinit var timeOverlay: TextView
+    // === INICIALIZACIÓN DE LOS OVERLAYS ===
+    private lateinit var pauseOverlay: TextView // Este es el TextView para "Pausado"
+    private lateinit var timeOverlay: TextView  // Este es el TextView para "Tiempo"
 
-    private val overlayHandler = Handler()
+    private val overlayHandler = Handler() // Handler para gestionar la visibilidad de los overlays temporales
 
+    // Runnables específicos para cada overlay que se oculta temporalmente
     private var timeOverlayRunnable: Runnable? = null
-    private var playingOverlayRunnable: Runnable? = null
+    private var playingOverlayRunnable: Runnable? = null // Nuevo Runnable para el mensaje "Reproduciendo" del pauseOverlay
+
 
     private val xspfUrl =
         "https://github.com/patitogit/mariavision/raw/refs/heads/main/Peliculas.xspf"
 
-    // === CAMBIOS AQUÍ: La clase Channel ahora incluye posterUrl ===
-    data class Channel(val title: String, val valUrl: String, var posterUrl: String? = null)
-    // ============================================================
-
     private var channels = mutableListOf<Channel>()
-    private var channelAdapter: ChannelAdapter? = null // === CAMBIO AQUÍ: Usamos nuestro ChannelAdapter ===
     private var currentChannelIndex = -1
     private var listVisible = true
 
@@ -75,42 +64,7 @@ class MainActivity : AppCompatActivity() {
 
     private var lastPlayedUrl: String? = null
 
-    // === NUEVOS CAMPOS PARA TMDB API ===
-    private val TMDB_API_KEY = "aaab89a062f042c014ccd0ad6ac652f4" // Tu API Key
-    private val TMDB_API_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhYWFiODlhMDYyZjA0MmMwMTRjY2QwYWQ2YWM2NTJmNCIsIm5iZiI6MTc1MzkwODU4Mi40NjQsInN1YiI6IjY4OGE4NTY2YjkxODg2MjRlNjVhZTM2ZCIsInNjb3BlcCI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.iEKsammmU0l_fnu_2PbeGPPUq_UXegqSbKRpR00fib0" // Tu API Token (para el header Authorization)
-    private val TMDB_BASE_URL = "https://api.themoviedb.org/3/"
-    private val TMDB_IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500" // w500 para el tamaño del póster
-
-    // Retrofit service
-    private val tmdbService: TmdbApiService by lazy {
-        Retrofit.Builder()
-            .baseUrl(TMDB_BASE_URL)
-            .addConverterFactory(GsonConverterFactory.create())
-            .build()
-            .create(TmdbApiService::class.java)
-    }
-
-    // Interfaz para definir las llamadas a la API de TMDB
-    interface TmdbApiService {
-        @GET("search/movie")
-        fun searchMovie(
-            @Query("api_key") apiKey: String,
-            @Query("query") query: String,
-            @Query("language") language: String = "es-ES" // Opcional: especificar idioma
-        ): Call<MovieSearchResponse>
-    }
-
-    // Clases de datos para parsear la respuesta JSON de TMDB
-    data class MovieSearchResponse(
-        val results: List<MovieResult>
-    )
-
-    data class MovieResult(
-        @SerializedName("poster_path") val posterPath: String?,
-        @SerializedName("title") val title: String,
-        @SerializedName("release_date") val releaseDate: String?
-    )
-    // =======================================================
+    data class Channel(val title: String, val url: String)
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -123,11 +77,37 @@ class MainActivity : AppCompatActivity() {
         loadingIndicator = findViewById(R.id.loading_indicator)
         videoPlaceholder = findViewById(R.id.video_placeholder)
 
-        pauseOverlay = findViewById(R.id.pause_overlay)
-        timeOverlay = findViewById(R.id.time_overlay)
+        // === INICIALIZACIÓN CORRECTA DE LOS OVERLAYS DESDE XML ===
+        pauseOverlay = findViewById(R.id.pause_overlay) // Asegúrate de que este ID existe en tu XML
+        timeOverlay = findViewById(R.id.time_overlay)   // Asegúrate de que este ID existe en tu XML
 
+        // Ambos overlays deben empezar ocultos
         pauseOverlay.visibility = View.GONE
         timeOverlay.visibility = View.GONE
+
+        // --- ELIMINAR ESTE BLOQUE ---
+        // Era el código para el overlayTextView programático que ya no necesitamos.
+        /*
+        overlayTextView = TextView(this).apply {
+            setBackgroundResource(android.R.color.black)
+            setTextColor(ContextCompat.getColor(this@MainActivity, android.R.color.white))
+            textSize = 24f
+            gravity = Gravity.CENTER
+            alpha = 0.7f
+            visibility = View.GONE
+            setPadding(30, 15, 30, 15)
+        }
+        (videoLayout.parent as ViewGroup).addView(
+            overlayTextView,
+            FrameLayout.LayoutParams(
+                FrameLayout.LayoutParams.WRAP_CONTENT,
+                FrameLayout.LayoutParams.WRAP_CONTENT,
+                Gravity.CENTER
+            )
+        )
+        */
+        // --- FIN DEL BLOQUE A ELIMINAR ---
+
 
         libVLC = LibVLC(this, arrayListOf("--no-video-title-show"))
         mediaPlayer = MediaPlayer(libVLC)
@@ -147,15 +127,17 @@ class MainActivity : AppCompatActivity() {
                     loadingIndicator.visibility = View.GONE
                     videoPlaceholder.visibility = View.GONE
                     videoLayout.visibility = View.VISIBLE
+                    // Ocultar cualquier mensaje de "Pausado" cuando la reproducción empieza
                     pauseOverlay.visibility = View.GONE
-                    timeOverlay.visibility = View.GONE
+                    timeOverlay.visibility = View.GONE // También ocultar el de tiempo si estaba visible
+                    // Asegurarse de cancelar cualquier temporizador que pudiera estar activo
                     timeOverlayRunnable?.let { overlayHandler.removeCallbacks(it) }
                     playingOverlayRunnable?.let { overlayHandler.removeCallbacks(it) }
                 }
                 MediaPlayer.Event.EndReached -> runOnUiThread {
                     Log.d("MainActivity", "Reproducción finalizada para URL: $lastPlayedUrl")
 
-                    val currentUrl = if (currentChannelIndex in channels.indices) channels[currentChannelIndex].valUrl else null // === CAMBIO AQUÍ: valUrl ===
+                    val currentUrl = if (currentChannelIndex in channels.indices) channels[currentChannelIndex].url else null
                     if (currentUrl != null && currentUrl.lowercase().endsWith(".mp4")) {
                         if (currentUrl == lastPlayedUrl) {
                             Log.d("MainActivity", "Removiendo tiempo guardado para '$currentUrl' (Película terminada)")
@@ -163,14 +145,14 @@ class MainActivity : AppCompatActivity() {
                         }
                         pauseOverlay.text = "Película terminada"
                         pauseOverlay.visibility = View.VISIBLE
-                        timeOverlay.visibility = View.GONE
+                        timeOverlay.visibility = View.GONE // Asegurarse de que el de tiempo esté oculto
 
                         Handler(mainLooper).postDelayed({
                             pauseOverlay.visibility = View.GONE
                             showChannelList()
                             currentChannelIndex = -1
                             lastPlayedUrl = null
-                        }, 3000)
+                        }, 3000) // Muestra "Película terminada" por 3 segundos
                     } else {
                         mediaPlayer.stop()
                         showChannelList()
@@ -278,9 +260,7 @@ class MainActivity : AppCompatActivity() {
                         XmlPullParser.END_TAG -> {
                             if (name.equals("track", ignoreCase = true)) {
                                 if (currentTitle.isNotEmpty() && currentLocation.isNotEmpty()) {
-                                    // === CAMBIOS AQUÍ: Creamos el objeto Channel con posterUrl null inicialmente ===
-                                    channels.add(Channel(currentTitle, currentLocation, null))
-                                    // =========================================================================
+                                    channels.add(Channel(currentTitle, currentLocation))
                                 }
                                 currentTitle = ""
                                 currentLocation = ""
@@ -295,10 +275,13 @@ class MainActivity : AppCompatActivity() {
                 runOnUiThread {
                     channels.sortBy { it.title.lowercase() }
 
-                    // === CAMBIO AQUÍ: Usamos nuestro ChannelAdapter ===
-                    channelAdapter = ChannelAdapter(this@MainActivity, channels)
-                    listView.adapter = channelAdapter
-                    // ================================================
+                    val adapter = ArrayAdapter(
+                        this@MainActivity,
+                        R.layout.channel_list_item,
+                        R.id.channel_name,
+                        channels.map { it.title }
+                    )
+                    listView.adapter = adapter
 
                     currentChannelIndex = 0
                     listView.setSelection(0)
@@ -312,7 +295,7 @@ class MainActivity : AppCompatActivity() {
                             saveCurrentPlaybackProgress()
 
                             currentChannelIndex = position
-                            val url = channels[position].valUrl // === CAMBIO AQUÍ: valUrl ===
+                            val url = channels[position].url
                             Handler(mainLooper).postDelayed({
                                 playChannel(url)
                                 hideChannelList()
@@ -342,11 +325,9 @@ class MainActivity : AppCompatActivity() {
                     }
 
                     showChannelList()
-                    // === NUEVA LLAMADA AQUÍ: Para cargar los pósteres ===
-                    loadPostersForChannels()
-                    // ===================================================
                 }
             } catch (e: IOException) {
+                // Captura errores específicos de red/IO
                 Log.e("MainActivity", "Error de red/IO al cargar canales: ${e.message}", e)
                 runOnUiThread {
                     Toast.makeText(
@@ -356,6 +337,7 @@ class MainActivity : AppCompatActivity() {
                     ).show()
                 }
             } catch (e: XmlPullParserException) {
+                // Captura errores específicos de parsing XML
                 Log.e("MainActivity", "Error de parsing XML al cargar canales: ${e.message}", e)
                 runOnUiThread {
                     Toast.makeText(
@@ -365,11 +347,12 @@ class MainActivity : AppCompatActivity() {
                     ).show()
                 }
             } catch (e: Exception) {
+                // Captura cualquier otra excepción general
                 Log.e("MainActivity", "Error desconocido al cargar canales: ${e.message}", e)
                 runOnUiThread {
                     Toast.makeText(
                         this@MainActivity,
-                        "Error al cargar canales: ${e.message}",
+                        "Error al cargar canales: ${e.message}", // Muestra el mensaje de la excepción para depuración
                         Toast.LENGTH_LONG
                     ).show()
                 }
@@ -377,62 +360,8 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    // === NUEVO MÉTODO: loadPostersForChannels ===
-    private fun loadPostersForChannels() {
-        // Ejecutamos en un hilo separado para no bloquear la UI
-        thread {
-            channels.forEachIndexed { index, channel ->
-                // Solo busca póster si el canal es una película (ej. termina en .mp4)
-                // y si aún no tiene un posterUrl asignado
-                if (channel.valUrl.lowercase().endsWith(".mp4") && channel.posterUrl == null) {
-                    searchMoviePoster(channel.title) { posterUrl ->
-                        if (posterUrl != null) {
-                            // Si encontramos un póster, actualizamos el objeto Channel
-                            channels[index].posterUrl = posterUrl
-                            // Y notificamos al adaptador en el hilo principal
-                            runOnUiThread {
-                                channelAdapter?.notifyDataSetChanged()
-                            }
-                        }
-                    }
-                }
-            }
-        }
-    }
-    // ============================================
-
-    // === NUEVO MÉTODO: searchMoviePoster ===
-    private fun searchMoviePoster(movieTitle: String, callback: (String?) -> Unit) {
-        tmdbService.searchMovie(TMDB_API_KEY, movieTitle).enqueue(object : Callback<MovieSearchResponse> {
-            override fun onResponse(call: Call<MovieSearchResponse>, response: Response<MovieSearchResponse>) {
-                if (response.isSuccessful) {
-                    val movieResults = response.body()?.results
-                    val firstPosterPath = movieResults?.firstOrNull()?.posterPath
-
-                    if (firstPosterPath != null) {
-                        val fullPosterUrl = "$TMDB_IMAGE_BASE_URL$firstPosterPath"
-                        Log.d("TMDB", "Póster encontrado para '$movieTitle': $fullPosterUrl")
-                        callback(fullPosterUrl)
-                    } else {
-                        Log.d("TMDB", "No se encontró póster para '$movieTitle'.")
-                        callback(null)
-                    }
-                } else {
-                    Log.e("TMDB", "Error en la respuesta de TMDB para '$movieTitle': ${response.code()}")
-                    callback(null)
-                }
-            }
-
-            override fun onFailure(call: Call<MovieSearchResponse>, t: Throwable) {
-                Log.e("TMDB", "Fallo al conectar con TMDB para '$movieTitle': ${t.message}")
-                callback(null)
-            }
-        })
-    }
-    // =======================================
-
     private fun playChannel(url: String) {
-        currentChannelIndex = channels.indexOfFirst { it.valUrl == url } // === CAMBIO AQUÍ: valUrl ===
+        currentChannelIndex = channels.indexOfFirst { it.url == url }
         if (currentChannelIndex == -1) {
             Toast.makeText(this, "Canal no encontrado", Toast.LENGTH_SHORT).show()
             return
@@ -545,7 +474,7 @@ class MainActivity : AppCompatActivity() {
             return super.onKeyDown(keyCode, event)
         }
 
-        val currentUrl = channels[currentChannelIndex].valUrl // === CAMBIO AQUÍ: valUrl ===
+        val currentUrl = channels[currentChannelIndex].url
         val isMp4 = currentUrl.lowercase().endsWith(".mp4")
 
         if (isMp4) {
@@ -553,10 +482,15 @@ class MainActivity : AppCompatActivity() {
                 KeyEvent.KEYCODE_DPAD_CENTER, KeyEvent.KEYCODE_ENTER -> {
                     if (mediaPlayer.isPlaying) {
                         mediaPlayer.pause()
-                        showPauseOverlay(true)
+                        // Cuando se pausa, queremos que "Pausado" se quede indefinidamente
+                        // Aseguramos que solo se muestre "Pausado" sin temporizador de ocultación
+                        showPauseOverlay(true) // Llama solo a la parte que muestra "Pausado"
                     } else {
                         mediaPlayer.play()
-                        showPlayingOverlayBriefly()
+                        // Cuando se reanuda, el Event.Playing de VLC ya oculta los overlays.
+                        // Podríamos también mostrar un mensaje breve de "Reproduciendo" aquí.
+                        // Para este caso, vamos a mostrar "Reproduciendo" brevemente.
+                        showPlayingOverlayBriefly() // Nuevo método para mostrar "Reproduciendo" brevemente
                     }
                     return true
                 }
@@ -627,24 +561,35 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    // === MÉTODOS DE OVERLAY MODIFICADOS ===
+
     private fun showPauseOverlay(paused: Boolean) {
+        // Cancelar cualquier temporizador de ocultación de overlays
         timeOverlayRunnable?.let { overlayHandler.removeCallbacks(it) }
         playingOverlayRunnable?.let { overlayHandler.removeCallbacks(it) }
 
-        timeOverlay.visibility = View.GONE
+        timeOverlay.visibility = View.GONE // Ocultar el de tiempo
 
         if (paused) {
+            // Mostrar "Pausado" y mantenerlo visible indefinidamente
             pauseOverlay.text = "Pausado"
             pauseOverlay.visibility = View.VISIBLE
         } else {
+            // Este 'else' ahora solo se usará si se llama con `paused = false`
+            // que en nuestro caso, debería ser manejado por `showPlayingOverlayBriefly()`
+            // Si por alguna razón se llama `showPauseOverlay(false)` directamente,
+            // seguirá mostrando "Reproduciendo" brevemente.
             showPlayingOverlayBriefly()
         }
     }
 
+    // Nuevo método para mostrar "Reproduciendo" brevemente
     private fun showPlayingOverlayBriefly() {
+        // Asegúrate de ocultar el timeOverlay si estaba visible
         timeOverlayRunnable?.let { overlayHandler.removeCallbacks(it) }
         timeOverlay.visibility = View.GONE
 
+        // Asegúrate de cancelar el runnable del mensaje "Reproduciendo" si estaba activo
         playingOverlayRunnable?.let { overlayHandler.removeCallbacks(it) }
 
         pauseOverlay.text = "Reproduciendo"
@@ -652,21 +597,26 @@ class MainActivity : AppCompatActivity() {
         playingOverlayRunnable = Runnable {
             pauseOverlay.visibility = View.GONE
         }
-        overlayHandler.postDelayed(playingOverlayRunnable!!, 2000)
+        overlayHandler.postDelayed(playingOverlayRunnable!!, 2000) // Se oculta después de 2 segundos
     }
 
+
     private fun showTimeOverlay(currentMs: Long, totalMs: Long) {
+        // Asegúrate de ocultar el pauseOverlay y el mensaje "Reproduciendo"
         pauseOverlay.visibility = View.GONE
         playingOverlayRunnable?.let { overlayHandler.removeCallbacks(it) }
 
+
         timeOverlay.text = "Tiempo: ${formatTime(currentMs)} / ${formatTime(totalMs)}"
-        timeOverlayRunnable?.let { overlayHandler.removeCallbacks(it) }
+        // Usamos timeOverlayRunnable para este caso
+        timeOverlayRunnable?.let { overlayHandler.removeCallbacks(it) } // Cancelar cualquier temporizador anterior
         timeOverlay.visibility = View.VISIBLE
         timeOverlayRunnable = Runnable {
             timeOverlay.visibility = View.GONE
         }
-        overlayHandler.postDelayed(timeOverlayRunnable!!, 2000)
+        overlayHandler.postDelayed(timeOverlayRunnable!!, 2000) // Se oculta después de 2 segundos
     }
+
 
     private fun showChannelList() {
         listView.visibility = View.VISIBLE
@@ -679,11 +629,13 @@ class MainActivity : AppCompatActivity() {
         videoPlaceholder.visibility = View.VISIBLE
         videoLayout.visibility = View.INVISIBLE
 
+        // Ocultar cualquier overlay visible al mostrar la lista
         pauseOverlay.visibility = View.GONE
         timeOverlay.visibility = View.GONE
 
+        // === Limpiar los runnables correctamente ===
         timeOverlayRunnable?.let { overlayHandler.removeCallbacks(it) }
-        playingOverlayRunnable?.let { overlayHandler.removeCallbacks(it) }
+        playingOverlayRunnable?.let { overlayHandler.removeCallbacks(it) } // Limpiar el runnable del mensaje "Reproduciendo"
     }
 
     private fun hideChannelList() {
@@ -717,11 +669,12 @@ class MainActivity : AppCompatActivity() {
         val resultList = ListView(themedContext)
         layout.addView(resultList)
 
-        // === CAMBIO AQUÍ: Usamos ChannelAdapter en el diálogo de búsqueda también ===
-        val searchResults = mutableListOf<Channel>()
-        val searchAdapter = ChannelAdapter(this, searchResults)
-        resultList.adapter = searchAdapter
-        // =========================================================================
+        val adapter = object : ArrayAdapter<String>(
+            this,
+            R.layout.search_list_item,
+            R.id.search_result_text
+        ) {}
+        resultList.adapter = adapter
 
         val dialog = AlertDialog.Builder(themedContext)
             .setTitle("Buscar canal")
@@ -734,9 +687,9 @@ class MainActivity : AppCompatActivity() {
 
             override fun onTextChanged(s: CharSequence?, start: Int, before: Int, count: Int) {
                 val query = s?.toString()?.lowercase() ?: ""
-                searchResults.clear()
-                searchResults.addAll(channels.filter { it.title.lowercase().contains(query) })
-                searchAdapter.notifyDataSetChanged() // Notificar al adaptador del diálogo
+                val results = channels.filter { it.title.lowercase().contains(query) }
+                adapter.clear()
+                adapter.addAll(results.map { it.title })
             }
 
             override fun afterTextChanged(s: Editable?) {}
@@ -753,19 +706,17 @@ class MainActivity : AppCompatActivity() {
         }
 
         resultList.setOnItemClickListener { _, _, position, _ ->
-            // === CAMBIO AQUÍ: Obtenemos el canal directamente del searchResults ===
-            val selectedChannel = searchResults[position]
-            val indexInMainList = channels.indexOfFirst { it.title == selectedChannel.title && it.valUrl == selectedChannel.valUrl }
-            if (indexInMainList != -1) {
+            val selectedTitle = adapter.getItem(position)
+            val index = channels.indexOfFirst { it.title == selectedTitle }
+            if (index != -1) {
                 saveCurrentPlaybackProgress()
 
-                currentChannelIndex = indexInMainList
-                listView.setSelection(indexInMainList)
-                listView.setItemChecked(indexInMainList, true)
-                playChannel(channels[indexInMainList].valUrl) // === CAMBIO AQUÍ: valUrl ===
+                currentChannelIndex = index
+                listView.setSelection(index)
+                listView.setItemChecked(index, true)
+                playChannel(channels[index].url)
                 dialog.dismiss()
             }
-            // ===================================================================
         }
 
         dialog.setOnShowListener {
