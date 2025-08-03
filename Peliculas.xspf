@@ -74,6 +74,15 @@
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
+		<track>
+			<location>https://download1478.mediafire.com/cjv2ldsviecgS7xii50zD_P6r6PHI4NfPnpRjYeatZMQX3WZ5WYecOq9kJb0ni5nWMP0uCx3CXy4487Gsm2VfVntyjK8HrFniEGaAnGI1GnCROL35MrYwLPaesz-WNa52uhrpTJyJ6lRG--A8u5g2gzw-kJx2gR4lDFpJRZhMZD8ew/3bs70mtf1v59ji1/gun.mp4</location>
+			<title>Los Tipos Malos 2 (Cam Español)</title>
+			<duration>29529</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
