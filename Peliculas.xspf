@@ -1,106 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
-	<title>Canales de TV</title>
-	<trackList>
-		<track>
-			<location>https://download1075.mediafire.com/hecy69yo9smg4pv5g7hvnTHukZfzDstBd7E52Nn9Zar1oSrfuPF0YvRUetuNL7xnBk6hdmYwDqihe6LfExrfpCxEvaq96lAmHuLbBdN4PdZUoUYSdyGFDEYJf3_Qm2cguw_mrwFTZ45Y-A5H4iJs0ZTsm_NxVJnndCj-Vt71s5atYQ/rq63wlv5eacc1k0/fan.mp4</location>
-			<title>Los 4 Fantasticos: Primeros Pasos (Cam Español)</title>
-			<duration>29529</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>10</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>https://download1339.mediafire.com/8dcuqcc1c6mgupxP6Q8mnOunhLPopEouqKNKekK8pN029N3oIbKKieHqrcH68tI3H0lpDVR_Gx9aQY0PvKesSlJ59uJt8Q0W2slVyEu2-x5KLQ21CKipWIBH8NleONTt9njF9W6oIqesFNAyoIhHmORe52bzNUm5NefauRiEcFjW9Q/83myzuea8zmeg4d/Sup.mkv</location>
-			<title>Superman (Cam Español)</title>
-			<duration>29529</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>10</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>https://download1339.mediafire.com/o04jpbcdxhxgHCwr7SuDg_DohaIvBVkwSSuXsWwvVMCN6qGtrfnn-zd0ROmx6aiBJpiFZrdBkx6Q5lZkMy41v94OeoaHBypBwNuGS0imehoWswgx_x6PPZae5tGqmwzFOkEdE5W1Nrz_tE8XJtha0b4frPGfO06mxuIBKHm4OuRMAA/an7rhj9k0zz0nwd/F.mkv</location>
-			<title>F1 La Pelicula (Cam Español)</title>
-			<duration>29529</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>10</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>https://download1320.mediafire.com/9k7bbjf6jcgg0SHejMqzfSpDMHSXGAdT8IdOOSVnSRDiNMtLHXr169V6awcKKmIhc9WGZMFjj-bNNYhSZhGKGNVTTbu2TM6g_NbiFk656c1XN5E3QhJ063NmwtxnRvePNXJYEEzfBeJeGs1i9o9jkSxCg5iZS8N-LZ19a-VMe1kvbg/dsl6bocx6couctd/mis.mp4</location>
-			<title>Mision Imposible: Sentencia Final (Cam Español)</title>
-			<duration>29529</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>10</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>https://download1322.mediafire.com/683om7z1fdeg3TsCvFKjMpym1dXYyJ8c43aBwhZSv3tsyih6xaM9w8vAcgoInU9eVkbsMu5sARcyIynPc1nJ9CaTmvLJ2kiQZ3L39geU_kJklyFKLb_hHoRegqzzlcsM9gBePefpHA6541SmcD6N2HzCL6QwAllqosbwQ1STAdea7Q/wpxlz9elyovmhxw/Jurr.mkv</location>
-			<title>Jurassic World: Renace (FHD Español)</title>
-			<duration>29529</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>10</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>https://download1589.mediafire.com/av110coh9gug9ctHUT6KiItjtFB0uCULE4jS4u8zvdhVavMAuTqgqxdnRTMDly9-4WWtqfQDlUYB2rSf6XNaemE1C2cXzMct8cjLDZaCs8Y2QCIOUA6O7KybTL8y9_Zg85eUiYmaz-bD10NaeezX5KKcXrrjBFeIbGIcE4ue0PjluQ/8e2p5qx0ttd89sw/ver.mp4</location>
-			<title>Se Lo Que Hicieron El Verano Pasado (Cam Español)</title>
-			<duration>29529</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>10</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>https://download1323.mediafire.com/1hmt72726aug3-2LIDzHSNdyyXOu1yx7lV9KNaV4LWTILcUoxMdoxAdCQD19qRUaI9RChRE_MELwaIgGCcOd03tkugZdNmYVbFVBoqM9kkVHmMf-Z4vQH34ZUARbWT34harguLgt2oD6C6Ao6vdNYYR8QAx6kFLvtJ7l9D4vNlqA3A/lkc3qat1qkbz3v5/smu.mkv</location>
-			<title>Pitufos (Cam Español)</title>
-			<duration>29529</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>10</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>https://download1584.mediafire.com/sfoz70ttg50gnSdiu_84L8IophqmI5xQ4REHbxdgw92wiRzCHemhrMPsBwrtaQdSXZbkhPL9MjTfwTv-lMogu1nJwsiQqtUHCv-95M3n_swMlpo3HGvlDUlIUUPOC3VChhqJZLLiw-iy44eG0ysT3hWVdXkxfq39YZfgcp4CHbfJMg/858ieuf96e1umq7/ti2.mp4</location>
-			<title>Los Tipos Malos 2 (Cam Español)</title>
-			<duration>29529</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>10</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>https://download1478.mediafire.com/kyrj9a8y65dgHPisVzRjlFaakMqPkpTWnoTzQuw7XNTIMvdu_Masm1m6bGAcMy4rkOAakDSSvUXRxlnjyt7XIP0ULQSCmbEieXfl5-G9BY6T8tGOl9ZFUukwSgbgm3Vb8cjp9nWUWI3kryPcA4VoT95eEc0WNVcsoBalaHkLY38Cwg/w1f3ov09egerhd2/nak.mkv</location>
-			<title>Y Donde Esta El Policia? (Cam Español)</title>
-			<duration>29529</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>10</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>https://download2272.mediafire.com/f53w61u1qnwg32Q6qNPZEtphb1d4TPeBse8fboXH-dRquR6uUFgA1pFnoo2MVA0XQ3uYBS2vv59Eph3tDKhx5Zo1IOVF8iVs5diS0JeA-wCZqRZbYv10hy5gEeZYbBzbdXwgqJwTAXGgtazh-CW4N8jtJUhP4VeVIXwgILL_1JJbFg/tn0q2vyaw6smy2w/Tog.mp4</location>
-			<title>Together: Juntos Hasta La Muerte (Cam Español)</title>
-			<duration>29529</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>10</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
-		<track>
-			<location>https://download1321.mediafire.com/5nh8s3act4hgfEGXOW_gMqZy3ytUWKSGeDoVfkEqO5KX7tIuYQ93zizw3tOI8BbjDelbRsBW_ihBcya3ncQoUG0b2X16-e0KRpdRrMMfG0eduCQQgzwUFgUPtnTLHsXlxjvpa3q_0ELOD_4wNdycmpHLpOO36nov7r6KU7-q8Cq43A/f2xumewfuhvqne4/We.mp4</location>
-			<title>La Hora De La Desaparición (Cam Español)</title>
-			<duration>29529</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>10</vlc:id>
-				<vlc:option>network-caching=1000</vlc:option>
-			</extension>
-		</track>
+  <title>Canales de TV</title>
+  <trackList>
+    <track>
+      <location>https://download1075.mediafire.com/oro2n1y6plhghUqwqJCDVzXfHFXH5cjMRHDMJqRu3SnT4b76K2iFc-gmj25Z5ENeH79MFcoRRG_ohkFgcTb-G68Lk5X38aTLdKXwiE2-IpMwmQBFE6sRJiKrKBghmwXQ8NDBGdfEeClvSiRHvcODso0S6jmGMHoY51dsvVJqEHHO5g/rq63wlv5eacc1k0/fan.mp4</location>
+      <title>Los 4 Fantasticos: Primeros Pasos (Cam Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download1339.mediafire.com/8dcuqcc1c6mgupxP6Q8mnOunhLPopEouqKNKekK8pN029N3oIbKKieHqrcH68tI3H0lpDVR_Gx9aQY0PvKesSlJ59uJt8Q0W2slVyEu2-x5KLQ21CKipWIBH8NleONTt9njF9W6oIqesFNAyoIhHmORe52bzNUm5NefauRiEcFjW9Q/83myzuea8zmeg4d/Sup.mkv</location>
+      <title>Superman (Cam Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download1339.mediafire.com/o04jpbcdxhxgsnHZQsEUo6JMX5hVmKbZJyIvbLKmNa5__NUCdpsfH-Ke3jZmsmpYcwHw8KQ8SnvFuFbwFPX2iWNGbHi8oXU9tRQu_OgaOtcv4OX6EXb-3LfZX_d1GQAAXAZLYUZV8s_mkzCtiK54iDW0GSlHLkB_yrht4qQpccvu4Q/an7rhj9k0zz0nwd/F.mkv</location>
+      <title>F1 La Pelicula (Cam Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download1320.mediafire.com/qa7hmcoocqxghDu3vDwOYBx3Uy9GSmyXnf_9mHi6W13387vKb5CkClCLEtCnIoONcQ1zdKX_kYzw8F6c95cQhsBfL0Mdlz3BiEmzUyo-0cURCUlDSCcTsm3M8dRnIyXF_Zi7Wns1kkyh4DG01lPwIcCxZTIQw7QaZBpnQryRPsqDYA/dsl6bocx6couctd/mis.mp4</location>
+      <title>Mision Imposible: Sentencia Final (Cam Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download1322.mediafire.com/683om7z1fdeg3TsCvFKjMpym1dXYyJ8c43aBwhZSv3tsyih6xaM9w8vAcgoInU9eVkbsMu5sARcyIynPc1nJ9CaTmvLJ2kiQZ3L39geU_kJklyFKLb_hHoRegqzzlcsM9gBePefpHA6541SmcD6N2HzCL6QwAllqosbwQ1STAdea7Q/wpxlz9elyovmhxw/Jurr.mkv</location>
+      <title>Jurassic World: Renace (FHD Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download1589.mediafire.com/ubeydhvqf9mgID8O1buLVZyFL1w3VHImBkGTcRspYlr8D4FP5w2H0t8owr9sENT2ia_vM6C2peNvUl-F-0KkXBn4ETt-OVosmz7k9kI4U1SpDPzRxqvNr7l2M_fNv0Vi7spcJE3N5y1Hi-mkMKRnBpQwajnY5q4HLm0VpbnBOh1bVQ/8e2p5qx0ttd89sw/ver.mp4</location>
+      <title>Se Lo Que Hicieron El Verano Pasado (Cam Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download1323.mediafire.com/1hmt72726aug3-2LIDzHSNdyyXOu1yx7lV9KNaV4LWTILcUoxMdoxAdCQD19qRUaI9RChRE_MELwaIgGCcOd03tkugZdNmYVbFVBoqM9kkVHmMf-Z4vQH34ZUARbWT34harguLgt2oD6C6Ao6vdNYYR8QAx6kFLvtJ7l9D4vNlqA3A/lkc3qat1qkbz3v5/smu.mkv</location>
+      <title>Pitufos (Cam Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download1584.mediafire.com/sfoz70ttg50gnSdiu_84L8IophqmI5xQ4REHbxdgw92wiRzCHemhrMPsBwrtaQdSXZbkhPL9MjTfwTv-lMogu1nJwsiQqtUHCv-95M3n_swMlpo3HGvlDUlIUUPOC3VChhqJZLLiw-iy44eG0ysT3hWVdXkxfq39YZfgcp4CHbfJMg/858ieuf96e1umq7/ti2.mp4</location>
+      <title>Los Tipos Malos 2 (Cam Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download1478.mediafire.com/kyrj9a8y65dgGT7dWHdYjx_MTsjqoQqyvYogkcNGeFyDDn9Y9suGAjQoaTh6U0IWT9xAxPeRvEo4Pco6yz5qlIhdLcJwHEYt8XfAMB_9_NsQflCXkheoJYzGMxBCv5yhXra1uBnjocQab9Pu8krhKgPl0CPomiMwVqo8JSeVjwHpzQ/w1f3ov09egerhd2/nak.mkv</location>
+      <title>Y Donde Esta El Policia? (Cam Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download2272.mediafire.com/f53w61u1qnwg32Q6qNPZEtphb1d4TPeBse8fboXH-dRquR6uUFgA1pFnoo2MVA0XQ3uYBS2vv59Eph3tDKhx5Zo1IOVF8iVs5diS0JeA-wCZqRZbYv10hy5gEeZYbBzbdXwgqJwTAXGgtazh-CW4N8jtJUhP4VeVIXwgILL_1JJbFg/tn0q2vyaw6smy2w/Tog.mp4</location>
+      <title>Together: Juntos Hasta La Muerte (Cam Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download1321.mediafire.com/5nh8s3act4hgfEGXOW_gMqZy3ytUWKSGeDoVfkEqO5KX7tIuYQ93zizw3tOI8BbjDelbRsBW_ihBcya3ncQoUG0b2X16-e0KRpdRrMMfG0eduCQQgzwUFgUPtnTLHsXlxjvpa3q_0ELOD_4wNdycmpHLpOO36nov7r6KU7-q8Cq43A/f2xumewfuhvqne4/We.mp4</location>
+      <title>La Hora De La Desaparición (Cam Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
     <track>
       <location>https://download856.mediafire.com/lrh3amgo1u0gsZTCzwGk4i7SXOT_cx7j3tP7QG0fURsEMjfdA0_SBAQZZr2OESxvSpXCdTiHTNo_IcOvYhBHPLan2sqsfgJLoGtAJHcpaEQE5g303mDyX70E8ucbQyyCiA1egUzUSNKOSqnzS71vX57qVL4SuNJuyOrHGakjwoH_8Q/fcipe00uslybrze/Frea.mp4</location>
       <title>Otro Viernes De Locos (Cam Español)</title>
@@ -110,20 +110,18 @@
         <vlc:option>network-caching=1000</vlc:option>
       </extension>
     </track>
-	</trackList>
-	<extension application="http://www.videolan.org/vlc/playlist/0">
-		<vlc:item tid="0"/>
-		<vlc:item tid="1"/>
-		<vlc:item tid="2"/>
-		<vlc:item tid="3"/>
-		<vlc:item tid="4"/>
-		<vlc:item tid="5"/>
-		<vlc:item tid="6"/>
-		<vlc:item tid="7"/>
-		<vlc:item tid="8"/>
-		<vlc:item tid="9"/>
-		<vlc:item tid="10"/>
-	</extension>
+  </trackList>
+  <extension application="http://www.videolan.org/vlc/playlist/0">
+    <vlc:item tid="0" />
+    <vlc:item tid="1" />
+    <vlc:item tid="2" />
+    <vlc:item tid="3" />
+    <vlc:item tid="4" />
+    <vlc:item tid="5" />
+    <vlc:item tid="6" />
+    <vlc:item tid="7" />
+    <vlc:item tid="8" />
+    <vlc:item tid="9" />
+    <vlc:item tid="10" />
+  </extension>
 </playlist>
- 
- 
