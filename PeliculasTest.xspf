@@ -39,15 +39,6 @@
       </extension>
     </track>
     <track>
-      <location>https://download1322.mediafire.com/683om7z1fdeg3TsCvFKjMpym1dXYyJ8c43aBwhZSv3tsyih6xaM9w8vAcgoInU9eVkbsMu5sARcyIynPc1nJ9CaTmvLJ2kiQZ3L39geU_kJklyFKLb_hHoRegqzzlcsM9gBePefpHA6541SmcD6N2HzCL6QwAllqosbwQ1STAdea7Q/wpxlz9elyovmhxw/Jurr.mkv</location>
-      <title>Jurassic World: Renace (FHD Español)</title>
-      <duration>29529</duration>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>10</vlc:id>
-        <vlc:option>network-caching=1000</vlc:option>
-      </extension>
-    </track>
-    <track>
       <location>https://download1589.mediafire.com/be1a52fwr4og5lVbXMzu9nOmu7JsJDITFJE8b3w0uK3gchWVRObcStviBotzjrcXDQLHfK0Tl9gPCO-EeSzyi7d5YXQ9yOfJkw7yOTDIS7OUqfAyr7HGsISdjPLMRS3CschuP1tY9w-lFOtQKWMDgxkmrfQPamz7pD2_fvCgtwAAyA/8e2p5qx0ttd89sw/ver.mp4</location>
       <title>Se Lo Que Hicieron El Verano Pasado (Cam Español)</title>
       <duration>29529</duration>
@@ -126,3 +117,4 @@
   </extension>
 
 </playlist>
+
