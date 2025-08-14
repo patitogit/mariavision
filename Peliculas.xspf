@@ -48,15 +48,6 @@
       </extension>
     </track>
     <track>
-      <location>https://download1323.mediafire.com/4yrf1omquzog8iDDOBpi41HdHh8J63reSx0_bROi421JKiByFqLsF2NgyXjEoteBb85gaMLHN7znHscbjbm7ukGj2ckxggJqwLD-8LSbmLi4TeEVR1j6R6kvwB5lz5sFRCDpllZBASGQuhuGLXY5eRWnr0Z9sqGTbMR3yWbJ23CEDw/lkc3qat1qkbz3v5/smu.mkv</location>
-      <title>Pitufos (Cam Español)</title>
-      <duration>29529</duration>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>10</vlc:id>
-        <vlc:option>network-caching=1000</vlc:option>
-      </extension>
-    </track>
-    <track>
       <location>https://download1584.mediafire.com/ly44jkrmrrag1C75E8VW7DYIfl7IgQG4Gh1iTJiz2Q_Ef2Q-tDJlQQhkOJkwzrX0iPleZ-_pWJbyQvAnMa2CJyeviuYQ3cu9hn12BwcfHkkqxbyOfWwX41muLTgU5YCNxIopRrrfqyzQdZ_QZsv2XOLs8i2xp1sfcgZuHEU8Q4je0g/oo2altjfdzoeg3h/tip.mp4</location>
       <title>Los Tipos Malos 2 (Cam Español)</title>
       <duration>29529</duration>
@@ -115,4 +106,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
