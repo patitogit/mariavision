@@ -13,7 +13,7 @@
     </track>
     <track>
       <location>https://store4.gofile.io/download/web/f9291ca6-87cb-468b-a261-f4e0d084746c/Superman.2025.WEB-DL.1080P.LMHD.LIGERO.mkv</location>
-      <title>Superman (Cam Español)</title>
+      <title>Superman (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
@@ -108,3 +108,4 @@
   </extension>
 
 </playlist>
+
