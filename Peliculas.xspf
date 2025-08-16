@@ -92,6 +92,15 @@
         <vlc:option>network-caching=1000</vlc:option>
       </extension>
     </track>
+    <track>
+      <location>https://download1638.mediafire.com/oa1l5m158xzg3lxOyMaz3bdFgDPsy0mKV7bkwspvi7aVn4CqJs51iEWWqt31cBlrq4TcX1jV03bAh9g_CWoU6hPDtYFAPjqmHMOhnGGpYzvhJ4ihPX-W2Q042W0IgwgvadkHqSAVfPa0HFBXQ4AFfcjlgACBaXDL6PHmn7Jd6WVgTA/s8p4uxqkg0cer7v/Drac.mp4</location>
+      <title>Dracula (Cam Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
   </trackList>
   <extension application="http://www.videolan.org/vlc/playlist/0">
     <vlc:item tid="0" />
@@ -106,4 +115,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
