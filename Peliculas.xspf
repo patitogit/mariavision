@@ -84,7 +84,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download856.mediafire.com/0re59pb5p2vglRUmuZxrsWEgmZiQ_0WoNPCWKfmQ_XEtTQuznEfAo4AQNbmVXCJeEBVlIIDUMNnN5IfZhHgAhw-EzqfgWeh_p0r5KZO7rCHlY-RuNLTtgMAEfg62Ff_et4TdGjqs5E5LG6QKg47AYYQCkfCHqSF7_qVpw38pfkYXWw/fcipe00uslybrze/Frea.mp4</location>
+      <location>https://download856.mediafire.com/iddy30lqsb5grc7UN3ZylUNn3vEzkm3PzdfT2hRoWmsKaJbjpNApBPF4Tnmdp3GoA3CcwVslhNgs6euyx_528T_l7rUJBTXMnAajzz52-5gZvjs5A1K97KCQOnIluSVYMzQshEJSrcd7ycPRsqFF7uzGx3f7I-bDYg5QwgO4FemNqw/fcipe00uslybrze/Frea.mp4</location>
       <title>Otro Viernes De Locos (Cam Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -115,4 +115,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
