@@ -3,7 +3,7 @@
   <title>Canales de TV</title>
   <trackList>
     <track>
-      <location>https://download1075.mediafire.com/2epotit8l1ugy_EOEEUKUfiC8bvjDVIoCLZYRkYiRUpl2BsFPdNVToDaGlgN7mbkoQqc3ArHUvs9D1uWYcNoIekgHKwC2JkwVDDNoW3nCJMuOnVPsHZAHRNBsfACAqnKIY6ntLSVvrc2B3COFEDftBENd996B7nED7OXg6aDwo4oXA/rq63wlv5eacc1k0/fan.mp4</location>
+      <location>https://download1075.mediafire.com/i45jianz7vog6bGc_b9JJnUiW47zI0joGPIiZKkBC2p5wUMa0UIVpDebykTeLoF6x7yRmkPR-O2pTCH8_tFqhuo1Bs8hLfcxBHKkSPY7NT2WStdrXVS7PzA9VmOgV4Q4SpRCkpnbFP_ZneJY1jOeRsEgbObk1gMfj8R9XW6bvu7p/rq63wlv5eacc1k0/fan.mp4</location>
       <title>Los 4 Fantasticos: Primeros Pasos (Cam Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -115,5 +115,4 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
-
 </playlist>
