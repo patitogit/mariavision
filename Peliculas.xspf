@@ -4,7 +4,7 @@
   <trackList>
     <track>
       <location>https://download1075.mediafire.com/x5e20wisid6gSrZIFccDPu1VaPkoBlkRhbTm-X3HthHyvP8DU0sYx2kZU6xJYQPbIwqbXiR-SMCWCI_kJy_F4eYMx3lYuVdj5VEhvBNIpKAystBJWlXiL1Fp6P-DELQ2nEdaN0bEhITxXZiCiWJHulyhX2U2aaKBopJBXdlvTQ/rq63wlv5eacc1k0/fan.mp4</location>
-      <title>Los 4 Fantasticos: Primeros Pasos (Cam Español)</title>
+      <title>Los 4 Fantasticos: Primeros Pasos (HDTS Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
@@ -22,7 +22,7 @@
     </track>
     <track>
       <location>https://download1339.mediafire.com/qigultdepxygUhpsShaPjRedHbXPfr36qebkLtQQz6BTfv-FIC_3XD0X08gPlTZ1B2WuN7Y2A03l_0ixAwFuKRi0im4kftOYSEAAOkv5gMFKAJS3xmXu6s2w9Y6NZ3oGQr5xLeTFfcKVLv3K8WmdYikQJ-La02sXpluYDwiYC-HSQQ/an7rhj9k0zz0nwd/F.mkv</location>
-      <title>F1 La Pelicula (Cam Español)</title>
+      <title>F1 La Pelicula (HDTS Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
@@ -58,7 +58,7 @@
     </track>
     <track>
       <location>https://download1478.mediafire.com/o5bexz8iswigY46AzbpSsWeCZPZwstApXN08R7rPL3CDFuQbVtv_Ic5QmaKXEoCT4dPCSBZR65EvrD3ey7CTMAJW545AkDXEd3HMR3MGZzFoizu3k4E6aitUpeJ_Fsa0ebQQDRPdokexeMbOMH7iY0qWjc3VVuz6nu9ug6FcWDJu/w1f3ov09egerhd2/nak.mkv</location>
-      <title>Y Donde Esta El Policia? (Cam Español)</title>
+      <title>Y Donde Esta El Policia? (HDTS Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
@@ -76,7 +76,7 @@
     </track>
     <track>
       <location>https://download856.mediafire.com/vry2ldjy1hqgzNzw0pchB8a_iP0PUD2eCEZjlxm8GNgO2tTBjcYA0w5w5VPXhU5-P-AXDKd7p58AFgNsNaFvuWqoY6Mn3umwdZ0Z1x2Zl97LieT2Uebb4Ei2_zd-v2pNzuDhkTX7dRdUCR_Y0u3v2O1u8fSBTd02E99KCMjybdcdWA/j3uwpo5316hova8/Weap.mkv</location>
-      <title>La Hora De La Desaparición (Cam Español)</title>
+      <title>La Hora De La Desaparición (HDTS Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
@@ -85,7 +85,7 @@
     </track>
     <track>
       <location>https://download946.mediafire.com/ke0feyzq2xegpHHhJABI7ULj_wG853JoqG0p_5Jld-BobSf4jwoYtAaS37zFfA7Nl8SXrlXKeltCSYUfH47U5ibd6PkKcdgubZDUuwlTE9O6N95dSqmnYFPCZhn9zUJFdEBwyftKenfAm-yYu3V9dlq4kCrs0bQ8qle3WIvkaKw9jw/jchciyi2ztyhaaf/Freak.mkv</location>
-      <title>Otro Viernes De Locos (Cam Español)</title>
+      <title>Otro Viernes De Locos (HDTS Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
@@ -117,6 +117,7 @@
   </extension>
 
 </playlist>
+
 
 
 
