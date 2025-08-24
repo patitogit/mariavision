@@ -110,6 +110,15 @@
         <vlc:option>network-caching=1000</vlc:option>
       </extension>
     </track>
+    <track>
+      <location>https://download1503.mediafire.com/hv5s73r9x8vgK7-zy8IYtfr2K361D2ol2HdEKx3_TlQHGcBM-DM0FtLJ0KheCuQnb-1Yk4fyP0YGwPUjqAg2gH-S4MTGejEjpDelLtwy8AirxlqOtKMpDYUlfVMrNfrOSldYA8RAVcKvuPzaYM935lxLYerKVAxVJg4COOFMMpJ0DBI/dxq6djuczfy1hze/chuck.mp4</location>
+      <title>La Vida De Chuck (Cam Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
   </trackList>
   <extension application="http://www.videolan.org/vlc/playlist/0">
     <vlc:item tid="0" />
@@ -124,4 +133,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
