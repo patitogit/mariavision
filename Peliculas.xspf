@@ -66,7 +66,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download2272.mediafire.com/b8y0r5ziyhcgMDxW8A_cZcUKn5B2BX6cQ3l6t8zTDDzZVohv7ufsR_axamWcXDkngAC8TIMJqgbCrkib9cH20dekkBZgTZC4z4cawkzTRmeHNjQjUFc5HzciV-f-0IuulkDRIh5bRTTYtRXPndM2EpVMDVOFJ0r5MKeuVgffBZ_pSA/tn0q2vyaw6smy2w/Tog.mp4</location>
+      <location>https://download2272.mediafire.com/pxt5psonving-Xx1g7tw3oBTebmiNN0Goaq3iBGKM3Yp8Zdsy9GFhglMhmbJOX4xLMorlIId633EapfPPppzEB8pMUpEtkmccqnbS7INH7oZ5ww33iPQUaeSN0spK8Dxx5XzA1WVGKWBrP4vjeOR7m285D8cy73B8DOrDxTFnomX4Q/tn0q2vyaw6smy2w/Tog.mp4</location>
       <title>Together: Juntos Hasta La Muerte (Cam Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -113,6 +113,42 @@
     <track>
       <location>https://download1503.mediafire.com/50qtv783t2vgeeK8ZmXnLGgJhyaOkA9eajfKnttdwSIr7soWUcai883LwDWy3JzzfxFizofBVjqeKHjjIaWijNUDIZd0Od7GZyANYWcR_SUNmRVKWnvsTA1HMpUp-wZccYmGylhsEzil7PEZ0JBqQ9FSiOYrH6Tzev9Ta3ngOACptf0/dxq6djuczfy1hze/chuck.mp4</location>
       <title>La Vida De Chuck (Cam Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download946.mediafire.com/dv7fwqxqqwjg-jNsImSR4OS4Jld6KVdbvJeA7HK29EB3VA2jGHNAzcW9wjCcn1dHH3plzvNHFsa29gXlhFq1RI5EXTTsf1iLruvbAOh27DOdUj0U93N3FZxQeVmXnVCtTXcJLgx4HhxsZwDrQRj-VO7LVkxZu2Qs5C3U-UFv2w7WoWg/p8q4ybvhftc6fn2/Guns.mp4</location>
+      <title>Guns And Moses (Cam Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download1072.mediafire.com/010pu6emt8mgpXNe0oe91Dn3bGqoyfPGvL--d9xdzAW9UBDuKs-BR-6Zn-6j6yR0ongMeyVMjo2Q-hHFpSWYnpO-9PK8ve-e2zTN-ng3zxC76pPpsZUwVFfRFjQdLiFiNSb3KGt7ome2GDmrLBDZXs09f7cLf8R1Ym9GbISC4VIVltw/lxltnk50z3fhczo/Primitive.mp4</location>
+      <title>Primitive War (Cam Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download1503.mediafire.com/3icvcfjdeiggek6MTnaNmVtCZbN6ahgbZRsWQheV2iJ5bOGNCWH1krbfsCM-MFGcwZ82JUob4l3Yuho7MGDqSMAYTFr42cRDr5yOq4Ub5ie17nHVE3sHg6kKn1HTC2VYthHHHv4Bj_bC4pY2x3ttHRW_M2CbcvzmJHRu0Ng-iT32Eag/oykcgyeiurdqeri/Oak.mp4</location>
+      <title>Oak (Cam Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download1322.mediafire.com/ei7tpkf1tjqgM7m1_zAXTGNtYW6xxw3M2sl9gYrSRqcxI5osOFgJCd3KN49c5hbWshX1NvMprzJMIyf7HF-5gYB1zoX4TPCz6rC7rw_AccVUishwDONhoBhM0rmqF_x7YOVmVO15wyuKdnC49_AfDd_0GQwjR_jQOCVYAzEHWWzn31M/y5rxgcssd22u3og/home.mp4</location>
+      <title>The Home (Cam Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
