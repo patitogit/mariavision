@@ -155,6 +155,15 @@
         <vlc:option>network-caching=1000</vlc:option>
       </extension>
     </track>
+    <track>
+      <location>https://download1582.mediafire.com/xeg3es0ygblgG26QFKwpt9lxJZY_X23YEYuPdTqwTQlkdAyJDTXqvUNlb1Exf--04es76sa6432rHEHxVRPNs5hxDxb8I_uyeWSI8UlTm2hkDYAsp62tVfAQe_7aZ-9bsDdPsOJKtnTevNAqddLhKt94scq8ZVMYMuHEbRZSJl_p0g4/prtw5n9h73vp46m/roses.mp4</location>
+      <title>Los Rose (Cam Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
   </trackList>
   <extension application="http://www.videolan.org/vlc/playlist/0">
     <vlc:item tid="0" />
@@ -169,4 +178,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
