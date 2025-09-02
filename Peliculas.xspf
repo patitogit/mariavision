@@ -200,6 +200,15 @@
         <vlc:option>network-caching=1000</vlc:option>
       </extension>
     </track>
+    <track>
+      <location>https://download1589.mediafire.com/s2mg9p7s756gTV7Qhn2UxZrH2nx1qg1wfSfQ4mE5Aeh3jsi2jghPqN91xeot4nD_kt9sez3gulmkTVm__tGIKGrFsADLc4V9ibbg8VGNcvEHnYztMkMV9SEOZ99FdBm0TmMt7CX1x5XmlFPU9ZCVMQtUPxsmgLpPQjygQKoQTc0ZIw8/6onozxs0nx2rixh/Jurtrim.mkv</location>
+      <title>Jurassic World: Renace (FHD Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
   </trackList>
   <extension application="http://www.videolan.org/vlc/playlist/0">
     <vlc:item tid="0" />
@@ -214,4 +223,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
