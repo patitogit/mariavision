@@ -138,7 +138,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1503.mediafire.com/umltgj8en4fg-EwmOs9xWIuZeNJpr96vfrjWy6LV67IUzOqBs3D5hu2tlAOtyFWK1RdJ5D5lhtdQ6ogP4T7xKBgQghR-71wXW6oGBaY6dSY9he5OsKZmjh8cRH9F98uFh5MUewElJg3B9M6TD_glYXL10JTKHUgnPBg7YRN09Ldbyw0/oykcgyeiurdqeri/Oak.mp4</location>
+      <location>https://download1503.mediafire.com/wtbp2jlo10xghYEXNz9X9euw0g0-Iv4FLQZk9p-ew-E5KqcB1-SPyyF42N5fFhs23JfKi41adFQvYREJOCfdi8l8om5kjWPmQlB6ytzZitEFhJj_BNPL7nE6Fi43q6nWt5qrOkaia6us1hxHljiAeRNYwvkOSOhOGakWzajP-g2tDy4/oykcgyeiurdqeri/Oak.mp4</location>
       <title>Oak (Cam Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -200,6 +200,15 @@
         <vlc:option>network-caching=1000</vlc:option>
       </extension>
     </track>
+    <track>
+      <location>https://download1589.mediafire.com/s2mg9p7s756gTV7Qhn2UxZrH2nx1qg1wfSfQ4mE5Aeh3jsi2jghPqN91xeot4nD_kt9sez3gulmkTVm__tGIKGrFsADLc4V9ibbg8VGNcvEHnYztMkMV9SEOZ99FdBm0TmMt7CX1x5XmlFPU9ZCVMQtUPxsmgLpPQjygQKoQTc0ZIw8/6onozxs0nx2rixh/Jurtrim.mkv</location>
+      <title>Jurassic World: Renace (FHD Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
   </trackList>
   <extension application="http://www.videolan.org/vlc/playlist/0">
     <vlc:item tid="0" />
@@ -214,4 +223,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
