@@ -84,7 +84,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download946.mediafire.com/k8f822c81hkg33eAtdd7pArPt0Kj0MQDmMT3nd5qhDCGfxOj-8CCMRaS4-jki0sFaIfg7ZEA4a5f8aGZHd-axCBlNSnWgLQkLOqg0ZNElhPeAWiphevmbgmGNXCIlXcTPcbNdZ665m24JitaNn2fkReCHEGTwpc3oqiSk1llHoBkvsc/jchciyi2ztyhaaf/Freak.mkv</location>
+      <location>https://download946.mediafire.com/wy05183uemyg448Os5dmD4UvaJuHI1EIezKIQz43CZ6yzgLJQFQPc9OCrkfq0g1Boeb6Ub88OO68hKXrlG_fxi-HjVmFu92cUgnNiYx_KwcnW2AJ8HUPF-gWXFAu3XjjSVO_ykP7wSOyEthv_RIfv7zaTAxwSycUO3uxMfj7irBT1ps/jchciyi2ztyhaaf/Freak.mkv</location>
       <title>Otro Viernes De Locos (HDTS Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -223,4 +223,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
