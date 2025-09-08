@@ -111,7 +111,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1503.mediafire.com/1zkpsvg81uug1k7JKk9Po1q-v-COS4lQMkNWvkxwxNosarv4W-Qc25msXWw7xy1M_eN79-77wkDIHDOA-kRe3zwdYfYbi5krTUhufPZhNi5MNEEa7mth5wjL2Lx7xr-CDgxDyXkWhtl6FpDs6CCMui5VHcPirNv60rTm8pQ9TxXtUdw/dxq6djuczfy1hze/chuck.mp4</location>
+      <location>https://download1503.mediafire.com/j9xc27kstnjg_NBKvEcsoBur6hHDaVerQ_iDqQ5oOATPEoYpJA95P4_gNY5WaPwKCG03v5_VzsN69iJMF_QvfF2Vjb3tfM-KKlr-0pxEsQkAKq470CIStQ-5ngBuJcwBUrzyTbaK3r_jloWkKyke0qmyYDrJbxgP-P0TLaD-6jQ9fw/dxq6djuczfy1hze/chuck.mp4</location>
       <title>La Vida De Chuck (Cam Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -232,5 +232,4 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
-
 </playlist>
