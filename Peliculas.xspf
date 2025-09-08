@@ -218,6 +218,15 @@
         <vlc:option>network-caching=1000</vlc:option>
       </extension>
     </track>
+    <track>
+      <location>https://download1326.mediafire.com/p43j0ligxlhgSk3XHaoJ1Ec4DC39CqFISGmfCK_6tHj_g2I1anKWNTj4boeseGjkrWULnQCSJidV8O1Bg2eMbRkCckLwDl8PIoAtJQwzpgcEA9iwGvp6l8bBnHsaKXp3jPoHRciyYMWBdQsPL9n02iJddFM0kiKbAWcKPzfUKCBzZqM/x8nup25eoaxmiz9/Sup4k.mkv</location>
+      <title>Superman (4K HDR Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
   </trackList>
   <extension application="http://www.videolan.org/vlc/playlist/0">
     <vlc:item tid="0" />
@@ -234,3 +243,4 @@
   </extension>
 
 </playlist>
+
