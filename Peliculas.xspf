@@ -210,8 +210,8 @@
       </extension>
     </track>
     <track>
-      <location>https://download1321.mediafire.com/4trai4lf3iegne4IFWI0C-v8wFHf-3HOkC11fOK6eumtpz5b943J1c2nMdkG1jCj6laMeZdxIjhHEEZMUCl4p7qA8IAOdjEQJBbMpBssmxp7clmA1SbCIgOgtt0Qm2jPTuHI_pO4_uTVuV19N1ZbQU2mZZOpo-aIlRN8qNb8kr2Ujw/m9pa8w91f6v5h6u/conj4.mp4</location>
-      <title>El Conjuro 4: Ultimos Ritos (Cam Español)</title>
+      <location>https://download1323.mediafire.com/tojnrchqkssgQNYOM2keQfQ7tAQEXfYFAG-Ny7-pqCygYHssvyKT33cZL2NKxzRHXCMEcjh8vAfZjYINdWUz7w1kPf0CZzqlPIhk5s1SXLncg626d-l2Hc6pT5zo1hByRYccN2oQi25V99Qzw5en7ki_S_3fDwhFAGTYIu-unI0iQ7g/wr24fhry2s0x2fu/conjhdts.mkv</location>
+      <title>El Conjuro 4: Ultimos Ritos (HDTS Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
@@ -250,4 +250,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
