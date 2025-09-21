@@ -183,15 +183,6 @@
       </extension>
     </track>
     <track>
-      <location>https://download1322.mediafire.com/2rss7e6xnf5ga8BUGL_P7J_18GUzmOZcZWcRCf5I6VyVy62KMZU26Ef5WTe-yVKFMOE6hA5FPFf2GS7JBlWavHukSrsdZ9ywqQk-0XnziuvOPjs8HKo0QFxk3rqaxMn-Apb3zIDc7DnLjWo93l7JkT3ZrtkN5cvlAdHAVh-fJuufCrc/c5708khd2li9owa/Jurr.mkv</location>
-      <title>Jurassic World: Renace (FHD Español)</title>
-      <duration>29529</duration>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>10</vlc:id>
-        <vlc:option>network-caching=1000</vlc:option>
-      </extension>
-    </track>
-    <track>
       <location>https://download1323.mediafire.com/gk5krt0i4lygk9iirhhZKfMd-vTJvzprU_vzyUUzKDjdFtIbNggvbSRsJLnD_OERxCMNqRJK8DK2xDcxe-3pHyHitC0XX_WddOEffncC9zU4WgkXJ9mwfSuOJ_vgHVlPnZwN_UZbSrfJmwlrMLXmEz_55HEsrdn44B_i-VWdZVAjFhg/wr24fhry2s0x2fu/conjhdts.mkv</location>
       <title>El Conjuro 4: Ultimos Ritos (HDTS Español)</title>
       <duration>29529</duration>
@@ -241,4 +232,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
