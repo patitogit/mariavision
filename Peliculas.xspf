@@ -84,15 +84,6 @@
       </extension>
     </track>
     <track>
-      <location>https://download946.mediafire.com/htndldlok5agsFSiUDn-ZFtDl26cWueFtqJufNzNlIvuEhxpwU4czjVIWPM2cZGVNdQ5HV3iHvMnrNl2s9lxnC-DrM9eFLWknHh9VnB01mCk_paJhOEzZmXSasmKc9g7XZ2f91OJKQZbGhwV6WXtogVtMhBGwGHf9akB8-8rr3v-PNw/jchciyi2ztyhaaf/Freak.mkv</location>
-      <title>Otro Viernes De Locos (HDTS Español)</title>
-      <duration>29529</duration>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>10</vlc:id>
-        <vlc:option>network-caching=1000</vlc:option>
-      </extension>
-    </track>
-    <track>
       <location>https://download1638.mediafire.com/vzc7y4pdx98gaSChlAL-oN2OxogxWJ9q5q2aT2xX93ZJF4COLIerggzxSwywPIqk5u5fRIU-tRJn3sZ3fRRQHnEKZJSAH7aBV5pABaIYVVoA7zQCwA11DkHNBpEnCgyn1ai2iNORayCq28t_A4d6DD1FVjAKYuDiBf2AZOWVREmkPQ/s8p4uxqkg0cer7v/Drac.mp4</location>
       <title>Dracula (Cam Español)</title>
       <duration>29529</duration>
@@ -259,4 +250,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
