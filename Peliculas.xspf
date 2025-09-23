@@ -84,15 +84,6 @@
       </extension>
     </track>
     <track>
-      <location>https://download1503.mediafire.com/vy3sou0c1ajgo1sYlG8clNoMoAfMoGaxUtLqjDC9Yt9TYIbI99z5_NTWd6XqkdwVblSY0RLz5_poy_d-jbLK5eYLGMmuLqXMgvm0akpeIr6sMG__PHKbFF-ZPoNDU16GGcpUMtG_PSfvzYcXTUWlcaAE4hrb8KjXAxxSRwW2TDwNHQs/ayjtjjbyt40q9q7/nobodtrim.mkv</location>
-      <title>Nadie 2 (FHD Español)</title>
-      <duration>29529</duration>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>10</vlc:id>
-        <vlc:option>network-caching=1000</vlc:option>
-      </extension>
-    </track>
-    <track>
       <location>https://download1503.mediafire.com/9vppoaxpcxlgEpFMkOV0s4bYQ7CCmHr1FiBUOLuey8UL7GD9xx0J8JMmk3MznnWaZy4eUeYtjoTt3TCs8SoTCweNs4IkWmUVcZFDTal0JUqodaCJS0n0uTSoLPXRdsFBz1iyse6ipJLXIfdPJEBYiMt6BsokO2DJwJun59s31mSOxwI/dxq6djuczfy1hze/chuck.mp4</location>
       <title>La Vida De Chuck (Cam Español)</title>
       <duration>29529</duration>
@@ -232,4 +223,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
