@@ -3,8 +3,8 @@
   <title>Canales de TV</title>
   <trackList>
     <track>
-      <location>https://download1589.mediafire.com/4o43xjk0ejighOwZ4CId49X83CkOwTGZ4Lo3vQDGJ4WuxB3cDzbWsg3borwiS099-4-kmdG-HtmJJnKwiwb-012mX-FW3uT0vjjahg_Dal5JZx6M1vxXenEQTbzczP7S_bBubUNJf3AH0BvR4uKKzRm4s2aD278MOMSy3pvUL8ey2Q/7lefwcm02ylb6dq/4f.mkv</location>
-      <title>Los 4 Fantasticos: Primeros Pasos (HDTS Español)</title>
+      <location>https://download1479.mediafire.com/oq0y85ud929gTX5gkUnUp50tIorSnz4EelBMmshmHIMylfAROsNri9whHxY8T0ZkOZbTo0GB9rlc7LR31aE6tqfidI6aL5IUN1Sphvt54HasNFVqMZ4gGstYPjP5ZdA-woc1Q1oe3DCSbMqWeFhVKBX7d2HP3jr7ZnmkyJpegloi6vA/jfq3zsauhi1stvq/The.Fantastic.Four.First.Steps.2025.1080p.iT.WEB-DL.DD5.1.H.264.LIGERO-ONIROS.mkv</location>
+      <title>Los 4 Fantasticos: Primeros Pasos (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
@@ -160,4 +160,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
