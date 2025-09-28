@@ -200,6 +200,24 @@
         <vlc:option>network-caching=1000</vlc:option>
       </extension>
     </track>
+    <track>
+      <location>https://download1326.mediafire.com/by4n3jpcjnfg8WqO5pShWPjF_l4ty1702wua26vpfbN7KPCZzPvz2Px6aPY8_iSbd4ziNO8PkCU-V5CkV0oJAJBi5jYRKySF0bLgH5t953v9wdC1-yr3nv57kw54vGzTHOFu1npUrdhuVV1JFaSFHamJAbAGewGPJz-qdDbW-bI0YyA/zk6xj52zatt884g/Una+batalla+tras+otra.mp4</location>
+      <title>Una Batalla Tras Otra (CAM Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download1640.mediafire.com/59f71wih0g7gAh7pT7hxkOdB9GFFQqlVp2SJD_u1lW8tfsXZn6bfF4Tg727b6BABDqptcHCM2odOE2QUFljKa3dAw-soOn4yx8infe-xtubL4wb1bRybHtgEtmfufSntcu6L3yADn_Nx1PpAR8zoBwIfXigfoUDasHLfnT2y2gO-aKg/l73l5l90dzyep7p/La+casa+de+mu%C3%B1ecas+de+Gabby.mp4</location>
+      <title>La Casa De Muñecas De Gabby: La Pelicula (CAM Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
   </trackList>
   <extension application="http://www.videolan.org/vlc/playlist/0">
     <vlc:item tid="0" />
@@ -214,4 +232,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
