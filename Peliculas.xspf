@@ -3,8 +3,8 @@
   <title>Canales de TV</title>
   <trackList>
     <track>
-      <location>https://download1589.mediafire.com/4o43xjk0ejighOwZ4CId49X83CkOwTGZ4Lo3vQDGJ4WuxB3cDzbWsg3borwiS099-4-kmdG-HtmJJnKwiwb-012mX-FW3uT0vjjahg_Dal5JZx6M1vxXenEQTbzczP7S_bBubUNJf3AH0BvR4uKKzRm4s2aD278MOMSy3pvUL8ey2Q/7lefwcm02ylb6dq/4f.mkv</location>
-      <title>Los 4 Fantasticos: Primeros Pasos (HDTS Español)</title>
+      <location>https://download1479.mediafire.com/oq0y85ud929gTX5gkUnUp50tIorSnz4EelBMmshmHIMylfAROsNri9whHxY8T0ZkOZbTo0GB9rlc7LR31aE6tqfidI6aL5IUN1Sphvt54HasNFVqMZ4gGstYPjP5ZdA-woc1Q1oe3DCSbMqWeFhVKBX7d2HP3jr7ZnmkyJpegloi6vA/jfq3zsauhi1stvq/The.Fantastic.Four.First.Steps.2025.1080p.iT.WEB-DL.DD5.1.H.264.LIGERO-ONIROS.mkv</location>
+      <title>Los 4 Fantasticos: Primeros Pasos (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
@@ -12,7 +12,34 @@
       </extension>
     </track>
     <track>
-      <location>https://download1584.mediafire.com/3dmyimatggbgVR7lAWs-1HvNP2B8zMV4A4Mmn6t2NlyyUrmkFXImUglAncmb_KhIOlWtdg4WoQ41V5uP0qYm8vDScCR3N0UEt92PDVAWuDpseM0pnPT9VPJx5nDiZ1CYOdN5lH8PDPgr4jW5CMWemd8IX5dqWAszLdOVBXKijhH-PKo/80zr8e8dhjynnip/supfhd.mkv</location>
+      <location>https://download1652.mediafire.com/1bbn5vioxqigjwW4Ph9Rd8IzV0m0mEQMfXUi7yuoJNXWH2cazj8pbPmWDenpV-KNHBSognyD6Y12BULOZMz0O8yuIaMq1huankbU72crA_GceIbp5WOzO13ExenaG9GMLH07uidgvQpw4cWzaQOR-q4gSbF5B03PYFmp2JHt_VJQdnU/kl0oinzgfbz9c2j/Freakier.Friday.2025.1080P.WEBRIP.2.0.LMHD.LIGERO.mkv</location>
+      <title>Otro Viernes De Locos (FHD Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download847.mediafire.com/s3dnoci5nejgDJfTFbcMtM2FXf6GvW4lawIEZ9eKGNpzJqaIYygpC1D8FQIFBcj2hPALsB-1PrKr6rHGT3WZq7x6AU6a_XALzliFZWTYNVGOZ39qd1wPRrVxoEXHYfvIa_jSh7_2cTQnyDFYRVmLtmTfySHua1tuaFGkd8Yi13olqw/99bdah066x19499/guy.mkv</location>
+      <title>Los Tipos Malos 2 (FHD Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download1322.mediafire.com/xk50wah2zj7g34mG6arSmdqm9ptxJN1Y5DSt3jmYUJoXcCBfLtoicVK9L7szcz5zjXIjHeUEmgt2Gu6uqcVm3QiaA9SeLo4O-VFoH_4mh5F_a_M9OzTrja5L_e_NjGGc0KoHdtgqqfAne6ZlNz09IIm-F-pq6ZfjSGM_ZEswfU31a9s/eyqto1zmiwnq85h/Jurassic.World.Rebirth.2025.1080p.iT.WEB-DL.DD5.1.H.264.LIGERO-ONIROS.mkv</location>
+      <title>Jurassic World: Renace (FHD Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download1584.mediafire.com/7tv1uqxeq9ygXGsgNq0jSnqBhj1tQDQeoBa_ft5uGlQKRhg0iEi5UnMgR58Y7aaeq5VVchXXNbKhLemAuTXwPCUed3A8ftEn1-zu-HdgRDxN3i1VqaC0iXj9p12GvhBxrh_PJKVhbGAvPVMtwq_pMQUoOtceDKiTs4_ymBxy3yD2OVU/80zr8e8dhjynnip/supfhd.mkv</location>
       <title>Superman (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -30,7 +57,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1587.mediafire.com/bmxsueawhxkg45_MpyriOUUqDdbtV9k29uNRenx9-oC1OtExauiT-_mR3curOcGGswy5YTU8a07gq-xq4zqyaITL0Vcjzlwjspi5WEJu_LxQfD5wcxx-K4hbWuzAVOjsqELJKHL1vfhLD8D8QS8O8kGISjicWoOlJSDuALYLBegvf9o/q5d98p5mggdm1co/mis.mkv</location>
+      <location>https://download1587.mediafire.com/wz4pvdv5sdzgU2cJ6f8jQEofl-AK-F17ygBk4OvKvhrav-DZKDjY6uZIYaxZkDDCk2r2pnMNW1Yg0ZrWMrxZUE9EHZ6LWiCnTxs-zsaSfBBmPUR1gl8Cx0e2WsiYYx9MufAvxA3WYbK4CNomKCjU-nQ-jO_HU56ktHnBgvlz4pgibB4/q5d98p5mggdm1co/mis.mkv</location>
       <title>Mision Imposible: Sentencia Final (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -48,7 +75,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1325.mediafire.com/n38xhqjgkt5gcUHyo8SWgPVdz3hPEXemZbDfAiF_tGvY7r1U1LfGAg3gW7C2_kQdEilou5PDbkQ2uZw-LCzqAAW7L1HIk4L0s3709azceHVUP4W_S4SCymwkDgDbVfx0tkOFSa6PSozH_YSt-N2MciBvF1tHIhCqGV9gFf1EKojivp8/wil9qlgqisrc89y/nagun.mkv</location>
+      <location>https://download1325.mediafire.com/mnzg8i7kvdfgpQ3m7wwfpdWDrlX70y_eqexgcTLyNE7I4aQ2L69dBzTMUCx6HtBvgD84kK2dgrhXUzG4_mXhurZWNxV3CkUSTMaEGPgt2IDrr23Tp-uZinyrm8NDxyXldOjlshII9M3N4bV90rKfKjxC26ihis46iI0HOYkEDR77U-k/wil9qlgqisrc89y/nagun.mkv</location>
       <title>Y Donde Esta El Policia? (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -75,53 +102,8 @@
       </extension>
     </track>
     <track>
-      <location>https://download1638.mediafire.com/jtj5loxyfixgfK_jF6V0GV2uH8sG5T_FdS8s02kkemLiCEOO6_dwVWI_-I3o_SEr72jtSkqL658CduGNlvsIIN0sDVfVnUOeWVRZmD1yJSuBzJN-X0H-jritwCqB6ALlUZWUIxQlaCraT4DUGyIr1CB22eFxspy_t95p2VQyORFFng/s8p4uxqkg0cer7v/Drac.mp4</location>
-      <title>Dracula (Cam Español)</title>
-      <duration>29529</duration>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>10</vlc:id>
-        <vlc:option>network-caching=1000</vlc:option>
-      </extension>
-    </track>
-    <track>
-      <location>https://download1503.mediafire.com/zin18oaib3pgp5aqKzEsHzPzYlvbmWzrrHQlt6harPIcFyDbnbzdHS5ref695jVU1E8Tqf8ExjGwd7B3R69HvTs92EF9ODMJy0y6KtWvTDbdEWI8ub_Z-uJ4ghRw_gU9-wHBF1N-tROiyffcqVzHKnfR0dym1N7WGiQd_wonS_Mn9KU/dxq6djuczfy1hze/chuck.mp4</location>
+      <location>https://download1503.mediafire.com/u2zezgyd94kgqQNuBhESLEt2ZqUYPlgTKFlWJWVNgBHR9s1_--JlNzbveaL0AlBPatO1YTTS8RBS4SpkxkjBjzexSeUMzwtOGtbeE8mpZ8y4-nhKGTQxRAt3V_QSqyo-bFQg1by06Wu2_A01Q47Phxunc99bPnCs5NtFAozGAzmBRG4/dxq6djuczfy1hze/chuck.mp4</location>
       <title>La Vida De Chuck (Cam Español)</title>
-      <duration>29529</duration>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>10</vlc:id>
-        <vlc:option>network-caching=1000</vlc:option>
-      </extension>
-    </track>
-    <track>
-      <location>https://download946.mediafire.com/xsfy0yvw69bgvgQHB-oAZSzSwJTqjCGc-BoXADtS5lMCMsoZ-xZVYklf5GSyke4pucKpOdozn5jJKu91BAYzvAU_q4EabnX3S31EhR_oHNesKL-lrGfciuOYrgFM7tRVjmMVyVjNYyZYYbx1DaTsV4YiIaSRbVw16w86AHsJysbH7Q/p8q4ybvhftc6fn2/Guns.mp4</location>
-      <title>Guns And Moses (Cam Español)</title>
-      <duration>29529</duration>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>10</vlc:id>
-        <vlc:option>network-caching=1000</vlc:option>
-      </extension>
-    </track>
-    <track>
-      <location>https://download1072.mediafire.com/wfttd9t8n2sgkYywi_S2_0jEN9GVM5cEy2Ro1kQ9ozv4g4rFBwNne8effMtnh9ARtoY1u8UrDMvHTIG-7YCyyXgiM1l4IvijQAXUMKLHb97xavnPMqM5-qPVEWo_qKf3abGSv9Q7rlTL_xYWRt8-eGrfSU4iaZAvStw4RPdMoSw7Bw/lxltnk50z3fhczo/Primitive.mp4</location>
-      <title>Primitive War (Cam Español)</title>
-      <duration>29529</duration>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>10</vlc:id>
-        <vlc:option>network-caching=1000</vlc:option>
-      </extension>
-    </track>
-    <track>
-      <location>https://download1503.mediafire.com/4kxkvyiggvqgMe0rn-q64NgUo7zRGU2B1WReg2qIZ5XoKyNP7cLaOHxhcivzzgYgwKc80ua_YfKRt19BCLTjLQvq2wG8ARB1Uv2SxmSNimeO8zfGu0VDG0kyaM4d-ktl1vnrsoAnLXgUbab5JmmkVMIrqTtrcR0rq2onLoGSMwcsHeo/oykcgyeiurdqeri/Oak.mp4</location>
-      <title>Oak (Cam Español)</title>
-      <duration>29529</duration>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>10</vlc:id>
-        <vlc:option>network-caching=1000</vlc:option>
-      </extension>
-    </track>
-    <track>
-      <location>https://download1322.mediafire.com/rm8i89p08vhg6PtE53KeH4O_Dcp1hSdNnopqDztbG_URYpmZcun9MX0eB94YjystlvbeE6SOq-oVk0shdpHJW3t1PFLW93RZ0iFI7nxhFQEc21YcOyszTuZArKyTsnUO8vNd0QueNYIXuw2TYqXfJ4eYqu7IpCbjpd0Xouo9ewAmhV0/y5rxgcssd22u3og/home.mp4</location>
-      <title>The Home (Cam Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
@@ -147,24 +129,6 @@
       </extension>
     </track>
     <track>
-      <location>https://download1640.mediafire.com/u8ah0elyckfg2psjdEC7ryqtmYTspfFe2fSmppYgBwAZnmm6AiBgtUHpKUgNhXAAT9k3ug03mCXrRYKTov6_OC6yEEPvep1Wn33BwgPJpYENDcA1c20x4IUIt6MMbhH6KcvsWZ-IiPGVUQGClQmS1wgsZ4ZGpYUz_z0e0PZl3WX08A/mnjquolw9vb08zi/trust.mp4</location>
-      <title>Trust (Cam Español)</title>
-      <duration>29529</duration>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>10</vlc:id>
-        <vlc:option>network-caching=1000</vlc:option>
-      </extension>
-    </track>
-    <track>
-      <location>https://download1586.mediafire.com/pufn27jygcmgSKel5MqtQ-SR8MUC9mHZHe5jmu3Fl-mW27TwBLm6rruEOSpOh2rOjj3YRk3zgh8Vz24qjZTXR-P3uAgCSRH3_AmzFsQ8fjzyu-qWBJNWnYOnTApeKoB0O8aPp_KAgralO_CH33ca2wu3Gup4BVuuFvy7n9-jxfTw_RM/97ce03w5ym66ch2/things.mp4</location>
-      <title>The Things You Kill (Cam Español)</title>
-      <duration>29529</duration>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>10</vlc:id>
-        <vlc:option>network-caching=1000</vlc:option>
-      </extension>
-    </track>
-    <track>
       <location>https://download1323.mediafire.com/imojtpxdqklgm_wGwpROi7HC3rLqRpS_mDqQkGzKeFimJn6vUjvkIFJxIRqZbrkufFNFK-pcQeAqudsDnOG6oVcHVYe4h5pSrknHapQGFp0nuSv5XNfM5JcbWPBzZCwEQdWdJS714Kd_8RX5HCEq6rjKYgjjb-R2DSy7K-n8Iuhw5No/wr24fhry2s0x2fu/conjhdts.mkv</location>
       <title>El Conjuro 4: Ultimos Ritos (HDTS Español)</title>
       <duration>29529</duration>
@@ -174,16 +138,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1478.mediafire.com/sb4eh3llxjhgNzo5ZUXLZAyG0FPOs9SXZE9h2vBSPzm38rO31VDUKmnp4bSntfabPO-SNCm9MZ204oSdXyAU3E9d7xqBUuitLvcHqTvKKbqhH_HtRvXU4TQcV4tw0H7A9huDCi6DPWo95v8-LdXhgW7VUbRxtuN3ur0wes9PIMqQE80/sdrd2xteb51yaan/toxic.mp4</location>
-      <title>The Toxic Avenger (Cam Español)</title>
-      <duration>29529</duration>
-      <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id>10</vlc:id>
-        <vlc:option>network-caching=1000</vlc:option>
-      </extension>
-    </track>
-    <track>
-      <location>https://download947.mediafire.com/svkn2ymjjk4gLGCRndSOXMWZw6iYrgOgCkR1ijS2MdLnuCn6j6pmkMNdzk-DyQlUlo8ddO1k2EyTE4jMgZ2xdQR0wvxJvm5EQoNHiFt7NeSsXFSID6sKQdjm_8DM_HTMBN8TohLRpyX0kd_8PBPWFAejMGfLv0_86mQaxD_-jjzJ1_s/1ypo2jxg4o1zeu4/castillohdts.mkv</location>
+      <location>https://download947.mediafire.com/b8mhn23gi24gCvS4yQ2LpvUA0Mx1pJpBPE-hD9hVo-NcUwXcSThhmPcDODMClB2eT9cjrb2LRKMjXFdFULC36qoZEtIJdVX84qIO5Fs_5tonzPu6D5KC19W4RAA7NL20J5sBjZLW4--ytdpXsfvGc95_gLIko6EPbE5L1NHEVViJ3Mw/1ypo2jxg4o1zeu4/castillohdts.mkv</location>
       <title>Demon Slayer: Kimetsu No Yaiba Castillo Infinito (HDTS Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -192,7 +147,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1591.mediafire.com/ss63fdeuui7gH_2eL-l7cKAZiJ7tAXV6iX-Znqv4pS2-DiiQzPz-nVyTNL3ZZ5Ycy77ebCUfZZJRpDmxWE93FeVHd27aKYHipSlGM4s6vGfjIfp14YjEg74z4-NS_0C1RrYMsNAQcupqib29x7PpADraeym2d5l9g_Lfaoej3NhtlOE/4weixm7w3040ybv/mascotas.mp4</location>
+      <location>https://download1591.mediafire.com/tdey0nkfoyzgkR5RzkJdQiGF-6mX1Lel4vbKwjI27b0sz-1TRtHdKsJz2KEWQfT4LcYRNiegNfrzFIoTC1xm5IStLa9aMb1TYqA2y7oEffaXGjx7VLwTaqw60gnkHCPNYc5hGkXGFKKnkf6xo6dU-PZx6OnXM0V5YnSXcAxFdopVqzc/4weixm7w3040ybv/mascotas.mp4</location>
       <title>Mascotas Al Rescate (CAM Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -234,3 +189,5 @@
   </extension>
 
 </playlist>
+
+
