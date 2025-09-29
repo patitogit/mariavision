@@ -30,6 +30,15 @@
       </extension>
     </track>
     <track>
+      <location>https://download1322.mediafire.com/xk50wah2zj7g34mG6arSmdqm9ptxJN1Y5DSt3jmYUJoXcCBfLtoicVK9L7szcz5zjXIjHeUEmgt2Gu6uqcVm3QiaA9SeLo4O-VFoH_4mh5F_a_M9OzTrja5L_e_NjGGc0KoHdtgqqfAne6ZlNz09IIm-F-pq6ZfjSGM_ZEswfU31a9s/eyqto1zmiwnq85h/Jurassic.World.Rebirth.2025.1080p.iT.WEB-DL.DD5.1.H.264.LIGERO-ONIROS.mkv</location>
+      <title>Jurassic World: Renace (FHD Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
       <location>https://download1584.mediafire.com/7tv1uqxeq9ygXGsgNq0jSnqBhj1tQDQeoBa_ft5uGlQKRhg0iEi5UnMgR58Y7aaeq5VVchXXNbKhLemAuTXwPCUed3A8ftEn1-zu-HdgRDxN3i1VqaC0iXj9p12GvhBxrh_PJKVhbGAvPVMtwq_pMQUoOtceDKiTs4_ymBxy3yD2OVU/80zr8e8dhjynnip/supfhd.mkv</location>
       <title>Superman (FHD Español)</title>
       <duration>29529</duration>
@@ -180,4 +189,5 @@
   </extension>
 
 </playlist>
+
 
