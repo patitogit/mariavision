@@ -191,6 +191,15 @@
         <vlc:option>network-caching=1000</vlc:option>
       </extension>
     </track>
+    <track>
+      <location>https://download1321.mediafire.com/sqx5lovlcnjgE3CN_QkrlMeL0UpDNVMiXskdvVLFFkczPy7QCFPSOxf3b1NHBW7uKbsjRgPcC8gp3OO7TKlwVPCHBJqZknjklIzySBbDbu7j3HReIqDesKZQss55n2aFpJLq-X5hOxepNsNKjCOCYWbDBFPSMvu0y8MFlCt99dyEYhI/hxwfq801lmuj9qz/extra%C3%B1os2.mp4</location>
+      <title>Los Extraños: Capitulo 2 (CAM Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
   </trackList>
   <extension application="http://www.videolan.org/vlc/playlist/0">
     <vlc:item tid="0" />
@@ -205,4 +214,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
