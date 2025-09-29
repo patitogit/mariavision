@@ -21,6 +21,15 @@
       </extension>
     </track>
     <track>
+      <location>https://download847.mediafire.com/s3dnoci5nejgDJfTFbcMtM2FXf6GvW4lawIEZ9eKGNpzJqaIYygpC1D8FQIFBcj2hPALsB-1PrKr6rHGT3WZq7x6AU6a_XALzliFZWTYNVGOZ39qd1wPRrVxoEXHYfvIa_jSh7_2cTQnyDFYRVmLtmTfySHua1tuaFGkd8Yi13olqw/99bdah066x19499/guy.mkv</location>
+      <title>Los Tipos Malos 2 (FHD Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
       <location>https://download1584.mediafire.com/7tv1uqxeq9ygXGsgNq0jSnqBhj1tQDQeoBa_ft5uGlQKRhg0iEi5UnMgR58Y7aaeq5VVchXXNbKhLemAuTXwPCUed3A8ftEn1-zu-HdgRDxN3i1VqaC0iXj9p12GvhBxrh_PJKVhbGAvPVMtwq_pMQUoOtceDKiTs4_ymBxy3yD2OVU/80zr8e8dhjynnip/supfhd.mkv</location>
       <title>Superman (FHD Español)</title>
       <duration>29529</duration>
@@ -171,3 +180,4 @@
   </extension>
 
 </playlist>
+
