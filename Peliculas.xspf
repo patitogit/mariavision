@@ -12,7 +12,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1652.mediafire.com/1bbn5vioxqigjwW4Ph9Rd8IzV0m0mEQMfXUi7yuoJNXWH2cazj8pbPmWDenpV-KNHBSognyD6Y12BULOZMz0O8yuIaMq1huankbU72crA_GceIbp5WOzO13ExenaG9GMLH07uidgvQpw4cWzaQOR-q4gSbF5B03PYFmp2JHt_VJQdnU/kl0oinzgfbz9c2j/Freakier.Friday.2025.1080P.WEBRIP.2.0.LMHD.LIGERO.mkv</location>
+      <location>https://download1652.mediafire.com/bzbpf7wsr0egA0EjQ0ZzV8pbcVftvT5NwIKgQT2IgjtMGj8lB1avAecl7orrockBcEAKTsNWi4l2MkGxmqb4bo8RgFlnc7SfHxBm0YClaYXGpu8xHB8oIctom-iBQDUlOx6As5SFAo_Ve4E66JVDOC2Zq6n12yFKinzjbM3XDiWEooo/kl0oinzgfbz9c2j/Freakier.Friday.2025.1080P.WEBRIP.2.0.LMHD.LIGERO.mkv</location>
       <title>Otro Viernes De Locos (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -214,4 +214,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
