@@ -200,6 +200,15 @@
         <vlc:option>network-caching=1000</vlc:option>
       </extension>
     </track>
+    <track>
+      <location>https://download1501.mediafire.com/brjrdz16lzegpQefYyq9rhL73h9HnVt6LEtkYAbghMI_VgLRbbQN5CEdloNp-JE8hXOGKIcFrl3gGxv8NQMz4ALK6lTCKxqP6aFDCCSGQ1UHYXGBSzoss7sIdmLbdkXetJ10v8nDaJvdvXi1DmJYTlnNm-OwTMZOtqlVZElSOAv3C94/dejysn9nhm4lt0t/The.Long.Walk.2025.1080p.TELESYNC.DD2.0.H.264.LIGERO-LMHD.mkv</location>
+      <title>Camina O Muere (HDTS Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
   </trackList>
   <extension application="http://www.videolan.org/vlc/playlist/0">
     <vlc:item tid="0" />
@@ -214,4 +223,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
