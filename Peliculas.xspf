@@ -201,8 +201,17 @@
       </extension>
     </track>
     <track>
-      <location>https://download1587.mediafire.com/rmvm2meax9dg6fhZuMgbj721gF_Ea9JFmksAHvcjsqsxOU9OT2RC5L3l0s_jtnXWBrwH-wwu9dOotwJjgj7feUOlVgbryuhq97llKFIBGnUAwIR4NOhGxuh4hUpGmPGa8nYWkHKnJXQyp0--ldl-3xmRWLkr1ncRdVTa_It1hrLZzRk/83ww8rc9g3rsa0q/Una+batalla+tras+otra+%282025%29+%5B1080p%5D+HDTS+V1+%5BLatino%5D+vip.hdlatino.us.mkvv</location>
+      <location>https://download1587.mediafire.com/rmvm2meax9dg6fhZuMgbj721gF_Ea9JFmksAHvcjsqsxOU9OT2RC5L3l0s_jtnXWBrwH-wwu9dOotwJjgj7feUOlVgbryuhq97llKFIBGnUAwIR4NOhGxuh4hUpGmPGa8nYWkHKnJXQyp0--ldl-3xmRWLkr1ncRdVTa_It1hrLZzRk/83ww8rc9g3rsa0q/Una+batalla+tras+otra+%282025%29+%5B1080p%5D+HDTS+V1+%5BLatino%5D+vip.hdlatino.us.mkv</location>
       <title>Camina o Muere (HDTS Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download947.mediafire.com/u9xhheyx5qng0kDAda25sI0ptQalKuvu91CKMyZe3OqMh4rkGEEfhtdJT-qvaKqeuOGG9plDZocGia2spu23HDwSigzCDw6PZkR7RlM287cOsbCyZHQ4_ln4OHi5VeZ2FVj5VzXlPWSqlwjFMEajR2P0I_OqGVoP97C4iA5aWlZekaU/gnne52zhfj7ynu7/200lobo.mkv</location>
+      <title>200% Lobo (HDTS Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
@@ -223,4 +232,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
