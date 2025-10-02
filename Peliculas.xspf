@@ -211,7 +211,7 @@
     </track>
     <track>
       <location>https://download947.mediafire.com/svwdfqemx3ogITEgdOwhLH_DTbh8xp6mIgovTrkW07EBaxzQ7o8DaNX4yidBH4TMqHnpItqb671Or0cX3VEUYOwh1qS8qT157RCKosBQ-0xpNb6zLpVM8ZKlBL2916VOAFiBHi00EygUuWjXTpStFtoF-MzYdL4kvCdgrh4ju30s8Xg/gnne52zhfj7ynu7/200lobo.mkv</location>
-      <title>200% Lobo (HDTS Español)</title>
+      <title>200 Por Ciento Lobo (HDTS Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
@@ -234,4 +234,5 @@
   </extension>
 
 </playlist>
+
 
