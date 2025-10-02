@@ -218,6 +218,15 @@
         <vlc:option>network-caching=1000</vlc:option>
       </extension>
     </track>
+    <track>
+      <location>https://download1334.mediafire.com/tnliudn57ufg1nNfSy9HpMd5cjARLozjOkkLhmouUoedvOEX0wVVkwlHCQ5MKOEopG4v7sTOPVX7O7foDfq5RZ-ugLkGVjbkwMNfRQbysU5wbP8biQP8gqHcpGP2S55CQ6EiGyD_LzmX3Oq0jRqK1e1vHK1XmNKMDfjd0-ZSIYTzIQU/cssycdqb6cx5jro/200lobo.mkv</location>
+      <title>200 Por Ciento Lobo (HDTS Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
   </trackList>
   <extension application="http://www.videolan.org/vlc/playlist/0">
     <vlc:item tid="0" />
@@ -234,6 +243,7 @@
   </extension>
 
 </playlist>
+
 
 
 
