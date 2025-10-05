@@ -263,6 +263,15 @@
         <vlc:option>network-caching=1000</vlc:option>
       </extension>
     </track>
+    <track>
+      <location>https://download943.mediafire.com/fakyj5nxfc3gnFH_jfUQKzQYBmLqgO6mxCGHIXF-nF1vt6HKFVUzkcCZ09PbkN2e8vbx7QIzrfREG-q8ceOz1chUHJqEJR2Nz4jVWzf3frAcxKBj06VmqcpZgxp2JPJNH-d8rJu6XBpsaP2SBnBRcwobauMg-EJPTirL-CVKt0JDWnc/xwb8v5q3sksa9se/Final.Destination.Bloodlines.2025.1080p.iT.WEB-DL.DD5.1.LIGERO-ONIROS.mkv</location>
+      <title>Destino Final Lazos De Sangre (FHD Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
   </trackList>
   <extension application="http://www.videolan.org/vlc/playlist/0">
     <vlc:item tid="0" />
@@ -277,4 +286,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
