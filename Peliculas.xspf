@@ -254,6 +254,15 @@
         <vlc:option>network-caching=1000</vlc:option>
       </extension>
     </track>
+    <track>
+      <location>https://download1528.mediafire.com/uoftgcel8qugPdOsQy_JEzoS1IinG59EYbwBfMyFnhAO391Ut0DCfMY1bdtDc8iJWSqcFFTnfMY3T3MafBEY2sySUIFvfprKGw7XMANmRMLYJpxYJkws0Jat759VUh-KckCgaJXXhYxxvTqWiUS-L8IL5vuJDjoP7H_ac2KXgf3hrgA/b29g6ivt2ezo3it/Smurfs.2025.WEB-DL.DD5.1.1080P.LMHD.LIGERO.mkv</location>
+      <title>Pitufos (FHD Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
   </trackList>
   <extension application="http://www.videolan.org/vlc/playlist/0">
     <vlc:item tid="0" />
@@ -270,4 +279,5 @@
   </extension>
 
 </playlist>
+
 
