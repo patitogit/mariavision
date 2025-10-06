@@ -147,8 +147,8 @@
       </extension>
     </track>
     <track>
-      <location>https://download1323.mediafire.com/1buyapnnp72gFDXtfDdCLc0Gkn7FuHjLv5hcdULN3-9LG2qMvkIL_UC6jD0Mto_GmAKnYvBawR6qPMH-IoZA4bgq5RXpu_SmvPEnp57qw19_Vw8ZUtal2jrsRiKcgbbOiyOlGFHgxkecLwDJ7b64OYjja9Wfo3Jjzknv2BEPlknwvEw/wr24fhry2s0x2fu/conjhdts.mkv</location>
-      <title>El Conjuro 4: Ultimos Ritos (HDTS Español)</title>
+      <location>https://download1655.mediafire.com/42lbpizvbhggA6Um9zPfa40MCsQ3Y67LgyXcq4EiILPl5DzNEKsnPZJXbO6Y2FcOPRybiCdsHMAUP4b3k-tkiaKT8RFEuarvjwc-mD8tsKJtQ_1eXPjVyE_MfHIuy0fCKcyQ8e8xLMh6tZ7edm03MLNDffXPDOqokvEM7IbqCNv4iYU/0t3wjlzxnjtexid/The.Conjuring.Last.Rites.2025.AMZN.WEB-DL.1080P.LMHD.LIGERO.mkv</location>
+      <title>El Conjuro 4: Ultimos Ritos (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
@@ -286,4 +286,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
