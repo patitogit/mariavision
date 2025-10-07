@@ -281,6 +281,15 @@
         <vlc:option>network-caching=1000</vlc:option>
       </extension>
     </track>
+    <track>
+      <location>https://download1650.mediafire.com/vo1tvk2b8irgKuaKj0kSIJ49Lh8pDJN5rLQIs3m91XCUtoM-tBbc3ofAYGJ13H8Lp4cS5H8DqFpCzlCnym9C_ThPfkQziJqXZq0uSohtGNKAFxdAkHgVq8Ow53_lN-9g_j-agXfmS5tZJUkXxvd-cuqwQubrfOBH6wrrpdUoTmdqO6Y/xu0hf0oakoeuqs1/Good.Boy.2025.1080p.WEBRIP.DD2.0.H.264.VOSE-LMHD.mkv</location>
+      <title>Good Boy (FHD Español Subtitulado)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
   </trackList>
   <extension application="http://www.videolan.org/vlc/playlist/0">
     <vlc:item tid="0" />
@@ -295,4 +304,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
