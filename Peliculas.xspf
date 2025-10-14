@@ -299,6 +299,24 @@
         <vlc:option>network-caching=1000</vlc:option>
       </extension>
     </track>
+    <track>
+      <location>https://download1511.mediafire.com/hh0jz6zyn1sgh01hCiWk5LQAKUCgenxUiHF3pKKSvYdFIoieQZ0oExhHxvkLCdsD6Piemc5w5jvR1r6QLSSYEyt_DebdiekbpcCcGe384v_C4lrui0CXNOQpFXnODP7LU7SJ47FRVffGv-SEHDJIheGYhP4LvgNmURw8ID-P13DLdUQ/aj0oglccwazclk2/V+H+S+HALLOWEEN+%282025%29+%5BFull+1080p%5D+WEB-DL+LIGERO+%5BLatino-Ingl%C3%A9s%5D+vip.hdlatino.us.mkv</location>
+      <title>VHS Halloween (FHD Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download1584.mediafire.com/kfwg0591pi2gUi5XHeTwo-m_hO_hUMDzD1tyH-GWuGAQgiGjZAzmwyJTuVC3zmS9HPonMZA4YfVWu589oKfVdkV2hxQrGDUG2HM04EwTgDRN3s6ylHLdlZlnGvksWdPu7tjpPp89V2FYdwscyKIRuTqCECe0riCLP9vpXXulgEGGHM8/4d5dux97uoj9it6/Ataque+zombie%2C+estaci%C3%B3n+Gangnam+%282023%29+%5B1080p%5D+WEB-DL+%5BLatino-Coreano%5D+vip.hdlatino.us.mkv</location>
+      <title>Ataque Zombie Estacion Gangnam (FHD Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
   </trackList>
   <extension application="http://www.videolan.org/vlc/playlist/0">
     <vlc:item tid="0" />
@@ -313,4 +331,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
