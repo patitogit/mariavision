@@ -291,8 +291,8 @@
       </extension>
     </track>
     <track>
-      <location>https://download1338.mediafire.com/sixeizschuxgsnJ-w3s4xsoxLbibwG7OXSgSgkhzVszNWTEJjO57IMIGL4MIr7W-QPMCUGPT0leIwnHtQL6bYcI7EkilipW2aJnjMa2XFxO3pBpffarHQPvt3RxyesYDk9rTDJNttmh4hdkbEWZWsgMwfaXTeM67kiiAAXQdav4mp_c/v7kz4qe2vp69r99/Tron.Ares.2025.1080p.CAMRip.LAT.DUB.1XBET.mp4</location>
-      <title>Tron: Ares (CAM Español)</title>
+      <location>https://download1589.mediafire.com/umoj8lih5b0g-UvJ0lOoLkwsTtHqYRuzdKwk95DBu_9x8kk1iIgy4HD_KcfyJuMgWte0skKi370uu84dGMaIf6FqFd2IZhJBgaYw15eqQ0S8xE7N55_ftequVShmTRZ_elk4VqmMauAkMdHTBujFyvbc585WUgiuNgrV40T5wrwsXhU/996lwen3u6mmgg1/TRON.Ares.2025.1080p.TELESYNC.DD2.0.H.264.LIGERO.V2-LMHD.mkv</location>
+      <title>Tron: Ares (HDTS Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
@@ -331,4 +331,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
