@@ -326,6 +326,15 @@
         <vlc:option>network-caching=1000</vlc:option>
       </extension>
     </track>
+    <track>
+      <location>https://download1528.mediafire.com/2asi39axluzgpj2rhpW4qsJw-ntxJ7n_tQ4-E9xB8pOX7VzE6wwNkeCVX5hoKTnC_VISlg7xTapu2c8HcaeyDl1H3mWCqJju_axHh9nUTp8Co9pVdrNoOwX8k6RmzH0IACfJLsYJ9lXW16tLZayDz_EscifcCW-pK0k4PBwq_dWmRvg/xl1igfllz2dm6ad/The.Mastermind.2025.1080p.TS.ES.EN-RGB.mp4</location>
+      <title>Mente Maestra (CAM Español Subtitulado)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
   </trackList>
   <extension application="http://www.videolan.org/vlc/playlist/0">
     <vlc:item tid="0" />
@@ -340,4 +349,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
