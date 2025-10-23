@@ -3,6 +3,14 @@
   <title>Canales de TV</title>
   <trackList>
     <track>
+      <location>https://download1654.mediafire.com/eotuf58jdqug2HF8Wkkr3BBgnAJtRlNlRClzPABJYYZpYigfLnRtdVAZuqNv6H8pCcufutOKv5S60-bOY-nPB8qSZi5_T7k-37GQ8wzsz8bvVap1f8qB4EqMdSOSJzTBoide4CypPLZBcJnVpQLq4oVkXyV93X_I4k_3kwlkP3lP6x8/5ik1smyeurzyoti/Mirreyes.mkv</location>
+      <title>Mirreyes Contra Godinez: Las Vegas (FHD Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    <track>
       <location>https://download1479.mediafire.com/os3zx2h16rbgCzYsPDDbME8Wxbh-E6ilsLLqH4pGNUFxj5aD-D08K-4PVxxCiUES_j3S-IkgiKBM2i7q1e32zsN5SCibCW3Aca4RSUhIv43fCi8wRFRACAeSpSqJ2obRIahowcgvJAI1H3bTnWwOl1z_GIGlK3Q6HRhyOVTt5osr2d8/jfq3zsauhi1stvq/The.Fantastic.Four.First.Steps.2025.1080p.iT.WEB-DL.DD5.1.H.264.LIGERO-ONIROS.mkv</location>
       <title>Los 4 Fantasticos: Primeros Pasos (FHD Español)</title>
       <duration>29529</duration>
@@ -351,6 +359,7 @@
   </extension>
 
 </playlist>
+
 
 
 
