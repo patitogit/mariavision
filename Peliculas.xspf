@@ -129,7 +129,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download843.mediafire.com/njc4ck8fe8pgMPdYcfMVKFUIvdCl2yZd5bT1fHew7kLh3m2fvJxAjPmtjjgUJKH1T-X_aSL_-LASkiS14Mz-PqNPWimLM_a90FQzXb66HlczEL9enDNduMG1vfGmICqmk7UjtDVuI0byS_Mb30hsOQaP_r-Elo0F-pt0j9v-PHVwt38/2b68foky82ax5rc/Los+Rose+%282025%29+%5B1080p%5D+WEB-DL+%5BLatino-Ingl%C3%A9s%5D+vip.hdlatino.us.mkv</location>
+      <location>https://download843.mediafire.com/ay6p0kgpa8kgjSBNydUYiUb6Gn5eNip2wF45KhOUTmcjEaFCdjIuLT3xht2BMltwHVlBqP_5abuiLHbb9vWwAeu7Abt2Fs-FdP4O6Sbvv-7b4eYcqRuq5yczEwaMORWohFwrgzy6p8m-HpMXnF2SluIWGUyJJ1YE4c0q7OdXgQbkw7A/2b68foky82ax5rc/Los+Rose+%282025%29+%5B1080p%5D+WEB-DL+%5BLatino-Ingl%C3%A9s%5D+vip.hdlatino.us.mkv</location>
       <title>Los Rose (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -349,4 +349,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
