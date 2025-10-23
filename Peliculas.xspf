@@ -335,6 +335,15 @@
         <vlc:option>network-caching=1000</vlc:option>
       </extension>
     </track>
+    <track>
+      <location>https://download1528.mediafire.com/my44oh9r2frgXHGSgUx2V6hajAikWdJmCL6ngWlXbf9fVcnPnznvNpYR3vZuOU5yNka3_u78xokRvbNwQWR1dtbgwLWtbAt1WBVY_VJ94LaBL6yVRBvMzcFqu1-CBsdgauqWRjV0XFmhZbr-bmLJm8DZgtaJMp2xt41SLtHnehJzLw/xl1igfllz2dm6ad/The.Mastermind.2025.1080p.TS.ES.EN-RGB.mp4</location>
+      <title>Mirreyes Contar Godinez: Las Vegas (FHD Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
   </trackList>
   <extension application="http://www.videolan.org/vlc/playlist/0">
     <vlc:item tid="0" />
@@ -349,4 +358,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
