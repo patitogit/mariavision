@@ -300,8 +300,8 @@
       </extension>
     </track>
     <track>
-      <location>https://download2393.mediafire.com/tfimljv10vpgVNKVtlPOHpoX2mEkdtV1Km4bfNR3qBJ8UVAYIZaomaDTpDdh7fuscvK6gxWZ9q58u5BLTXV_-AzG96godt0SzqTF2D1zlxNYGZ2nGEJ8eNvy-8k8WmsxAA-FWwKMo45pVd8z6zuJYnW-rcxLIda94qUNZ-KlSYQ25wI/xu0hf0oakoeuqs1/Good.Boy.2025.1080p.WEBRIP.DD2.0.H.264.VOSE-LMHD.mkv</location>
-      <title>Good Boy (FHD Español Subtitulado)</title>
+      <location>https://download946.mediafire.com/vytod1l7q6egHx5c4zr0yUkZ50n2FxsoByU7WCsqjymoTFkDVygMcWROqvqeJYwaOFAR8KAaWCn-RwrXDv9RTfVrxoaWn0IBmSx07h4G16ougreffoEce5HoSmPKNkyBGLuTKMIW3L1KVwB97rwLIblqopjNABTA8brwVZwu30HMh7Q/opeqb7wnilln1m1/Good+Boy+%282025%29+%5B1080p%5D+WEB-DL+%5BLatino-Ingl%C3%A9s%5D+vip.hdlatino.us.mkv</location>
+      <title>Good Boy (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
@@ -367,4 +367,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
