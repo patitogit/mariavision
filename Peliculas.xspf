@@ -3,6 +3,15 @@
   <title>Canales de TV</title>
   <trackList>
     <track>
+      <location>https://download1592.mediafire.com/83w464tjwxygkTum2zXJ7ntihp2Od09HbLov8XIppI2o6orlys_2UwUf_TGPC_cVqyWahIn7sTrwvg5Chwq8c3q37PHuSBjVVpHxLmc1_c5_6IYJhBIfKFzp8c5ZdjUR-uo03P6Rs7vE1M6xsTmC4Tff4WUXSEOTTD9ZG23Dgf7XTn8/qxugilyw2jidfng/Regretting.You.2025.1080p.TS.ES.EN-RGB.mp4</location>
+      <title>A Pesar De Ti (HDTS Español Subtitulado)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
       <location>https://download1654.mediafire.com/eotuf58jdqug2HF8Wkkr3BBgnAJtRlNlRClzPABJYYZpYigfLnRtdVAZuqNv6H8pCcufutOKv5S60-bOY-nPB8qSZi5_T7k-37GQ8wzsz8bvVap1f8qB4EqMdSOSJzTBoide4CypPLZBcJnVpQLq4oVkXyV93X_I4k_3kwlkP3lP6x8/5ik1smyeurzyoti/Mirreyes.mkv</location>
       <title>Mirreyes Contra Godinez: Las Vegas (FHD Español)</title>
       <duration>29529</duration>
@@ -358,4 +367,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
