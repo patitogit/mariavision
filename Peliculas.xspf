@@ -3,7 +3,16 @@
   <title>Canales de TV</title>
   <trackList>
     <track>
-      <location>https://download1654.mediafire.com/3rc9jq6gmiugkCPp-q2Es_dJIedXx1monk7Nl0xOQN_YYxmb4htXiOR5EyjeslyDHuMq7nFix_I-JmWPHTgJ5bIhCTAv8umcGNSj6IuboTtUyX98ijdMiL2Dgg4TgJbbEv7Orak-OxLZeg7KfvZuxQdMxV_dnAuzOy1A2Odzr8pIuwA/5ik1smyeurzyoti/Mirreyes+contra+God%C3%ADnez+-+Las+Vegas+%282025%29+%5BFull+1080p%5D+%7BVIX%7D+WEB-DL+%5BLatino%5D+vip.hdlatino.us.mkv</location>
+      <location>https://download1592.mediafire.com/83w464tjwxygkTum2zXJ7ntihp2Od09HbLov8XIppI2o6orlys_2UwUf_TGPC_cVqyWahIn7sTrwvg5Chwq8c3q37PHuSBjVVpHxLmc1_c5_6IYJhBIfKFzp8c5ZdjUR-uo03P6Rs7vE1M6xsTmC4Tff4WUXSEOTTD9ZG23Dgf7XTn8/qxugilyw2jidfng/Regretting.You.2025.1080p.TS.ES.EN-RGB.mp4</location>
+      <title>A Pesar De Ti (HDTS Español Subtitulado)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download1654.mediafire.com/eotuf58jdqug2HF8Wkkr3BBgnAJtRlNlRClzPABJYYZpYigfLnRtdVAZuqNv6H8pCcufutOKv5S60-bOY-nPB8qSZi5_T7k-37GQ8wzsz8bvVap1f8qB4EqMdSOSJzTBoide4CypPLZBcJnVpQLq4oVkXyV93X_I4k_3kwlkP3lP6x8/5ik1smyeurzyoti/Mirreyes.mkv</location>
       <title>Mirreyes Contra Godinez: Las Vegas (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -75,7 +84,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download947.mediafire.com/67hcgtq4urhg9WQWpHnBmopXHYFr35XI-XS1pObPU08BDBp91Qn7Zc8ZWTJ0-HD309pAZxcg6WnIT6drW1g_cVEJ-xlyiEK34I2iFaBhK84KBoMrlnmS5IPaD9bymPWSId3w6ItdA0heu4sgJjUdsLMeh481xfZkXsWRcNHgwX5zqA/4nkopjcuklnu0wm/f1m.mkv</location>
+      <location>https://download947.mediafire.com/agvuezwuejigcrlN-eB85G7LrQm_st7OHTo_4OA_z9zOagYgDxmA1gtJF3OLDA519SbX1_0VUxrgjUNhDmNXRx3qjdYlpVJt6NHMrT8k8uc1ft1FE5DNtVw_7J_tuIbb1bVQQzvSB3zYPQGOD2YgqB_AZptJMn_WhXAXqDOQ27e3piY/4nkopjcuklnu0wm/f1m.mkv</location>
       <title>F1 La Pelicula (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -201,7 +210,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download856.mediafire.com/re3hzw6b12cg5KZd2IeASmKnf2Ipa4cyePuPr38pAImBjWbE9g0MD4TXsuWuBoxFU0JZBAtZdjsCQcI82yvtXSYL6jnHMIAICMke5IkZPncSaB6FtpUq1aA7yOaoZCd2n26MchS7cQgbk-Jp0rZ50nIDolR3Kx7T5uaWc3cOU4pYgTI/7ghwogavn1e6px1/The.Strangers.Chapter.2.2025.AMZN.WEB-DL.1080P.DD2.0.LMHD.LIGERO.mkv</location>
+      <location>https://download856.mediafire.com/uiy6dik9q8bgkynMmxMlkusMowdNUikz8uhSJ8yoISTMs3OImUwhwEYQ50w64XZFk0r8UggCDXXC5_5zh3A9PgCSb27UbF57sUPpKqYv95U_R-P2npqC_LedFn51iuVwyhk9wh7Bd7j3FB2qVXMbngVkEsT-VukkHkkbREJROz8NQgE/7ghwogavn1e6px1/The.Strangers.Chapter.2.2025.AMZN.WEB-DL.1080P.DD2.0.LMHD.LIGERO.mkv</location>
       <title>Los Extraños: Capitulo 2 (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -360,6 +369,3 @@
   </extension>
 
 </playlist>
-
-
-
