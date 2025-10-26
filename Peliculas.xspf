@@ -3,6 +3,15 @@
   <title>Canales de TV</title>
   <trackList>
     <track>
+      <location>https://download1531.mediafire.com/a6otdnr53zhg8Na3M0pTSKuTbhaw757NmYB2WbDSMOU-aUPNWXNbCfhA9VoLyQ5ixVd9z9EqfXBOKrmb3-kXDcPgKnZbtOcACue9XDs2w25soRVoOKBgI3xgjDsaTo4TS6jaJe7JbZ_wtcnsbdHIJfyOnWKW46rIRTt5Dz5_dRApiCM/kzsfb0key4508ye/Frankie.mp4</location>
+      <title>Frankie y Los Monstruos (CAM Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
       <location>https://download1592.mediafire.com/2mjfs7qo6gyg-hNr7J1Z_evAtHTRun9rLEXu_l6pbqvTbSP3deM57LGhj7TgTkm7XOGKmbMCI6H5vI1vtEgcYU4ITGthhyyhB6iVMAD7MdLggrL0XIArqWzuAV7OhPxtD3a0PidEcCtEcWnM7Ml1wU9J45Y7gql5tLkzIECny-dN0w/qxugilyw2jidfng/Regretting.You.2025.1080p.TS.ES.EN-RGB.mp4</location>
       <title>A Pesar De Ti (HDTS Español Subtitulado)</title>
       <duration>29529</duration>
@@ -369,3 +378,4 @@
   </extension>
 
 </playlist>
+
