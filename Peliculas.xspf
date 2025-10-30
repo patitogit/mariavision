@@ -4,6 +4,15 @@
   <trackList>
     <track>
       <location>https://download856.mediafire.com/ld2aaapa3lzgE08UcS-uqXdDHesATgTqoxGIlnPNQlZ8X2Ds84PBVtukEjMrh-scPeBKBpduJmzI67XgzXRUe3nv1h09lcs_5-wJwKIEMGDiUaCEVAT5mOBKzfU7TkubdhZHBP9bh99oL6EYsNsYnBX5iHoewHg_JjI9SUgf8DDTWaY/gzhrhrnx5352nee/Frankenstein.2025.1080p.CAM.ES.EN-RGB.mp4</location>
+      <title>Jesus Luz Del Mundo (FHD Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download856.mediafire.com/ld2aaapa3lzgE08UcS-uqXdDHesATgTqoxGIlnPNQlZ8X2Ds84PBVtukEjMrh-scPeBKBpduJmzI67XgzXRUe3nv1h09lcs_5-wJwKIEMGDiUaCEVAT5mOBKzfU7TkubdhZHBP9bh99oL6EYsNsYnBX5iHoewHg_JjI9SUgf8DDTWaY/gzhrhrnx5352nee/Frankenstein.2025.1080p.CAM.ES.EN-RGB.mp4</location>
       <title>Frankenstein (CAM Español Subtitulado)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -394,4 +403,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
