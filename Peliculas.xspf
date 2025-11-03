@@ -3,6 +3,15 @@
   <title>Canales de TV</title>
   <trackList>
     <track>
+      <location>https://download1528.mediafire.com/sp9ytb8axzrgvpCLvgznmvT-8vxB7-0ppW89axYbCFWajAC00zVpR5JG9KtBhEQBXojD_EhDk6TswSQpGcKwWiEatfeRVPlggRxYpMYlPn-Wsc2YRDRQyp1c0FEKivq5BhtDMvgHBim2D096ShvLyAI2KZ3g8c824UJYToxtUGgNtZM/58y8zmnvkycb9k2/Cuando.el.cielo.se.equivoca.mkv</location>
+      <title>Cuando El Cielo Se Equivoca (HDTS Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
       <location>https://download1980.mediafire.com/ihlpxsvm4svgMdmIb5wtvzqEz1ZSMcUnRFJeaQPKRHYAzvDh82I4P4ZaYxjGwA92_ilmK_tdc6EQ22TF9hCks7z0S7KJw9LOrFVaBGalTY_RYh0OzcCNv9gzeBVDJQfdxddqPGUf0hD4hVLkbYMte86PDYSMKCCcU_rcWbnt6LO_65o/4s0i7yrerpbv28z/Jesus.luz.del.mundo.%282025%29.mkv</location>
       <title>Jesus Luz Del Mundo (FHD Español)</title>
       <duration>29529</duration>
@@ -403,4 +412,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
