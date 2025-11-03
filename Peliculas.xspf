@@ -48,8 +48,8 @@
       </extension>
     </track>
     <track>
-      <location>https://download1531.mediafire.com/qkhn1jxk66mgSMNJzszDNwpzTyvBqEOYDhMM4C4vofKucRTJivLILOmre11flNn20SWwYwD4IKtvB2jV8tKKXbLif2_1bO79AHoKAUxFRBwkOZB_Fbxq_mh1Lf9dvEj1-0YWBSx5QHOLrYUJ4wjQkWSVxMEng_Wri6UOIIsfzPJvVCE/kzsfb0key4508ye/Frankie.mp4</location>
-      <title>Frankie Y Los Monstruos (CAM Español)</title>
+      <location>https://download1348.mediafire.com/a95daha85skgL0Lbr78SpjFjyPJ2Ar5qW4CtbIrF5fboY4mqvj66ZbD-YfAYPzV6WZ6IA-AbmnbH3wQIY_N7URJoHwpTFPuYfAIElDt7A2QOtAeam7bkTj5Ve78m054MfsVnnp5BM7S2O5n6feQORwCUoDmhu48XqaEBZlK3vVUtebs/uei7nmilofcupaa/Stitch.Head.2025.1080p.TS.ES-RGB.mp4</location>
+      <title>Frankie Y Los Monstruos (HDTS Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
@@ -421,4 +421,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
