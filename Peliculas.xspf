@@ -3,6 +3,15 @@
   <title>Canales de TV</title>
   <trackList>
     <track>
+      <location>https://download1580.mediafire.com/we0felqhyv8gOwCaRjcrm4te95WWUng_Ghvo44mY0kDxCKQqv4Q6KLZymByN7VyZWiX-kq2UivpzAGkmzMPufdg-ZHhCwdzwIbNzpnyPgA6vwHeHZpUygZ1Zxer5A1Rvbih7QOGMfE88snK9WE9R5QvXK1RfMMXtJJSnnE3-MRJkDsA/d1bcf7kev193oss/Chainsaw.mkv</location>
+      <title>Chainsaw Man La Pelicula - Arco De Reze (HDTS Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
       <location>https://download1528.mediafire.com/sp9ytb8axzrgvpCLvgznmvT-8vxB7-0ppW89axYbCFWajAC00zVpR5JG9KtBhEQBXojD_EhDk6TswSQpGcKwWiEatfeRVPlggRxYpMYlPn-Wsc2YRDRQyp1c0FEKivq5BhtDMvgHBim2D096ShvLyAI2KZ3g8c824UJYToxtUGgNtZM/58y8zmnvkycb9k2/Cuando.el.cielo.se.equivoca.mkv</location>
       <title>Cuando El Cielo Se Equivoca (HDTS Español)</title>
       <duration>29529</duration>
@@ -414,3 +423,4 @@
   </extension>
 
 </playlist>
+
