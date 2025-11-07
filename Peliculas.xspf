@@ -39,8 +39,8 @@
       </extension>
     </track>
     <track>
-      <location>https://download856.mediafire.com/pbrydy23slbgC3Iy--tF0P2Mv0uOyxHlnl7s0iUmQlz698XHn95c7JEX4UaWDRS_dLwOLVuRhbV0vpwvnX9H_MC0lLaDL0_R2cJELqc57TdI6j0xiAKUZ6O84qRQjxEweLK41XCjC3VRLUAFvfzcprEj_pI7Yz3TWV7KKUFoUAebGq4/gzhrhrnx5352nee/Frankenstein.2025.1080p.CAM.ES.EN-RGB.mp4</location>
-      <title>Frankenstein (CAM Español Subtitulado)</title>
+      <location>https://download1507.mediafire.com/3hsoc1nppdzgMiu3WC9JE3eA_tl7LJYnRAZOuLOZHE5DgvKBHl1hdxZsKD9bg0h8ym5Q9fsUTLf7qsPFzNlg0wPSZg48xmm0GxQiPHXM6W6eKN1Z89KBAGkS1jfxCL7qxEzL7XJL9Jq_ZK2TYOTL19o2GDF6iP40KkAvd_XwaYQ5Ah8/g8uv9kruyeek32e/Frankenstein.2025.1080p.NF.WEB-DL.AAC5.1.H.264.LIGERO-ONIROS.mkv</location>
+      <title>Frankenstein (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
@@ -430,4 +430,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
