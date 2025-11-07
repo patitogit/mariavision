@@ -3,6 +3,15 @@
   <title>Canales de TV</title>
   <trackList>
     <track>
+      <location>https://download1334.mediafire.com/1xpj8veldbjgrgxZ9O8FdOtMgGdG7bo0wDIUuEfLB2KhtpGpMKWAzaTrwqZqWvdyIVghDaDeA-T3ZlQBJB3W0mUbm6WSKEFdaR-JkTD4Dyb-0CmqqcGufNG4o6R8f632F6dkilhe3vf7Cc9PVb0CO3hqyzOTTTfF9YYr2_U9FSH4lb8/xku7yv4bwt6gynf/Night.of.the.Zoopocalypse.2025.1080p.WEB-DL.DIGITAL2.0.H.264-LMHD.mkv</location>
+      <title>Zoopocalipsis (FHD Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
       <location>https://download1580.mediafire.com/te8jjr5dji1gYDsqgLVlmOWqSA2Buas0q7Y951yCxWwkGlOY3XfPn3v8IDcXJflJdYprnjQ6sGYdOObec0F7s7VgoeFoE8eiAasqTWX8Wf3-17Zx4wkOK0V7mpvXQtyPV3Vm-fvHokMyj2qIo_838LWL3gGZFYKhgStx49vmJkoKrhY/d1bcf7kev193oss/Chainsaw.mkv</location>
       <title>Chainsaw Man La Pelicula: Arco De Reze (HDTS Español)</title>
       <duration>29529</duration>
@@ -421,4 +430,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
