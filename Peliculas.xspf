@@ -30,8 +30,8 @@
       </extension>
     </track>
     <track>
-      <location>https://download1528.mediafire.com/1r4kgtz4wypg2ECeqzkwi9FZwaBpi-CvwG9vziXfGB45x25hC8hgqwlDktA3QaIE666b2CJCDHtdihShM6LCdMKzWAcjE7TAkFTPAPLZnWdWy_S1VRRdpS5YH-KEVAyOA6Rye1h4ZnlN66Kf7T6WqwR5HYF3L5kCuXd2VvyWJ3VjYQ8/58y8zmnvkycb9k2/Cuando.el.cielo.se.equivoca.mkv</location>
-      <title>Cuando El Cielo Se Equivoca (HDTS Español)</title>
+      <location>https://download1076.mediafire.com/02zhsm2vningcU1X0XkryKIiX027uNWB9g8jvwrucZHQI_-uzyWNxUc31AjISp4tE6vHFkQ4bnJgBtBJ1jWAPWz8lqxobgnVxaAwE4ovUMborXcTuwYktAUzSjgg5vpuTMTxkkA-QieNga4ee6FGtHlpDdUEDfaG2Q5Q26l3Wmj9mmY/y5ab8gg1k9nbb3k/Good.Fortune.2025.1080p.WEB-DL.DIGITAL2.0.H.264.LIGERO-LMHD.mkv</location>
+      <title>Cuando El Cielo Se Equivoca (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
@@ -439,4 +439,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
