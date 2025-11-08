@@ -3,6 +3,15 @@
   <title>Canales de TV</title>
   <trackList>
     <track>
+      <location>https://download1584.mediafire.com/gkdedju3i0fgfTrMGzedxGMYbmi8wZBvB4qLqksL5qjbH09yApfZ2uufHbQmGB0_wlFQwIiPB_DJgXTRAi8PTSlHkAE6ko7fw9TCczp4gXnA12XPowkKHSFOxSTm4cXKcMbXSz2yHcdOj1jtoZRHa5eixnGe-D0sI2rQfa9Nq0bm44U/0m62e54b9gl0iom/El.gran.premio.a.toda.velocidad.mkv</location>
+      <title>El Gran Premio A Toda Velocidad (FHD Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
       <location>https://download1350.mediafire.com/oxwl3w7vdamg9428ZCkjukWK7gh7opvAIDmxvo6JWlFdiXcuh7QRDj857YGzv0jy1pOZ94ktk4gEBXDC87g5vmhkU6YJ-Gr487UR4sLYDopY1c1G5mC_5re0q5Qz7w2U02V148YC2HlVM_7-vohOjtzNXs8vy3v3ME2uKDw_OOl0Dv0/8568fuumgnxvpi8/Depredador.tierras.salvajes.mkv</location>
       <title>Depredador: Tierras Salvajes (CAM Español)</title>
       <duration>29529</duration>
@@ -439,4 +448,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
