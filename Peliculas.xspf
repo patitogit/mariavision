@@ -237,7 +237,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1476.mediafire.com/uf7oyhjhwe4gLYMCkcnwrTU0yUoKg5-APKmqdZnmLfKV2QGXZgsJlerIyte4TWDQymP8a8Bi07aCW43Uxl2L6__lUiAMDZO97QkSoPmXmLoNGetxtWzT_m1p9reJ-QZtCPNoD9v3DImCJsGkPxfVMCFHKs5tQkqilgSO9Qy-yMwzoQ/2b68foky82ax5rc/Los.Rose.2025.mkv</location>
+      <location>https://download1476.mediafire.com/alsyk7frufzgYGevXixcaCxa6moTAXBPrNmmUK3183sDmbAvblc_g76EXLoUvkzo_IVn6yfGHo3oq8PoMWnttBvDtD13EPUemjzPAMkWWbFxKgEEhpSZyTQuPMV247rmVB2tu-boJSqraoDoz9Q9_A8uaaD3YC0p7CEJ83IZMXh8YDg/2b68foky82ax5rc/Los.Rose.2025.mkv</location>
       <title>Los Rose (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -457,6 +457,4 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
-
 </playlist>
-
