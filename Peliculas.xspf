@@ -4,6 +4,15 @@
   <trackList>
     <track>
       <location>https://download938.mediafire.com/778upfkeavqg3-0jCPr8ym5ScXJK8G0P8U_0EiYvJ4D88Iof6WaBz5eIkpxSWbVTwLojTquyX7wjM5go1qEJJRFnU6lT5iwFlEk0FIGfgxQnzqvXrj8Wfcw4PPXnu9EpLjU9N3yOKsSR9UlM_Rir9Xpwb-mwU9F_Ubx3M-3IUcTQd00/51uh1e0jp9v0lwv/matate.amor.hdts.mkv</location>
+      <title>Los Ilusionistas 3 (HDTS Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download938.mediafire.com/778upfkeavqg3-0jCPr8ym5ScXJK8G0P8U_0EiYvJ4D88Iof6WaBz5eIkpxSWbVTwLojTquyX7wjM5go1qEJJRFnU6lT5iwFlEk0FIGfgxQnzqvXrj8Wfcw4PPXnu9EpLjU9N3yOKsSR9UlM_Rir9Xpwb-mwU9F_Ubx3M-3IUcTQd00/51uh1e0jp9v0lwv/matate.amor.hdts.mkv</location>
       <title>Matate Amor (HDTS Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -457,4 +466,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
