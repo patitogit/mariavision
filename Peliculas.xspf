@@ -3,8 +3,8 @@
   <title>Canales de TV</title>
   <trackList>
     <track>
-      <location>https://download1479.mediafire.com/mqcci0e6hblgZvvgHCF5jJRZ38ogRND_3WS0F_5FB1HgvLd2rrVIkCue5Fa0pjsJ09pmJ-cF5FNrMJBMNVoFTRBxDL2uHZitNWyk6b-4v4FCpHrbrzw7TTm57maMsOIw6Aj5i7ez9-6DJIV9loeJK5E8gTElBf0XRH58huDesyZkwqE/1cl8pjgo8cxk0r8/Die.My.Love.2025.1080p.CAM.ES.EN-RGB.mp4</location>
-      <title>Matate Amor (FHD Español)</title>
+      <location>https://download938.mediafire.com/778upfkeavqg3-0jCPr8ym5ScXJK8G0P8U_0EiYvJ4D88Iof6WaBz5eIkpxSWbVTwLojTquyX7wjM5go1qEJJRFnU6lT5iwFlEk0FIGfgxQnzqvXrj8Wfcw4PPXnu9EpLjU9N3yOKsSR9UlM_Rir9Xpwb-mwU9F_Ubx3M-3IUcTQd00/51uh1e0jp9v0lwv/matate.amor.hdts.mkv</location>
+      <title>Los Ilusionistas 3 (HDTS Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
@@ -12,7 +12,16 @@
       </extension>
     </track>
     <track>
-      <location>https://download1584.mediafire.com/bdjjba8p1udgSVfTrUywWkGYNP_3s00cwU4ewmPMkuyVZnE1ifF6htvyOA3Y2WcIzXw7wDQES7No4rGzJZaqMLG25EwgLHCbp0TiIxjInGOB9xLueGf75Qu4IUsDjktvCa7Dd4_Mqw-DUakqfdQEPaNcR-dNR_jCJRbB3NsVA6dceKM/0m62e54b9gl0iom/El.gran.premio.a.toda.velocidad.mkv</location>
+      <location>https://download938.mediafire.com/778upfkeavqg3-0jCPr8ym5ScXJK8G0P8U_0EiYvJ4D88Iof6WaBz5eIkpxSWbVTwLojTquyX7wjM5go1qEJJRFnU6lT5iwFlEk0FIGfgxQnzqvXrj8Wfcw4PPXnu9EpLjU9N3yOKsSR9UlM_Rir9Xpwb-mwU9F_Ubx3M-3IUcTQd00/51uh1e0jp9v0lwv/matate.amor.hdts.mkv</location>
+      <title>Matate Amor (HDTS Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
+      <location>https://download1584.mediafire.com/vieg1938jq6gNtYYLLW5hVUYg6j6_LQJVoV0MS5_wJVA2n2y-KIY-OsgzKHir43x5Na8O8Damgi67EA9bzIMwuytOYpZdjBkUZ8y_al1Fwz47sPM5Wfyvin4zH-F5HvoInrA-pq6D9AOcPyQ8H6i0NTaXtu0ouyiSGgw9Um8OSjw_rA/0m62e54b9gl0iom/El.gran.premio.a.toda.velocidad.mkv</location>
       <title>El Gran Premio A Toda Velocidad (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -21,8 +30,8 @@
       </extension>
     </track>
     <track>
-      <location>https://download1350.mediafire.com/2wrpgfwoh5zgP3LyMXlGcWEqZZg2CWC7FERo65h8PsSS-OR4P-olLs2YZTzfGEtUtOXx5OrXN0njBmDyBREh2Ut_nGi-j1RG8a1PDfkaPMKMjD1LNEhELMFfU7N8-vWGrWFHl4MtF79a83lxqEPrpVJlGD1YBsfPcVTD3J0FWSTHyFg/8568fuumgnxvpi8/Depredador.tierras.salvajes.mkv</location>
-      <title>Depredador: Tierras Salvajes (CAM Español)</title>
+      <location>https://download1347.mediafire.com/0qoahj24lmig3WWNJ7y0cREt6NKlV-ujcAa6wGCyr9TmjgwbPRhI8rbImSGXLA7ZnVfi5IDe6jEf7bAKEatv6hFDLuhViLqlh2Dn11sqIEp6kxhxVwfK2U6BWcxRfLJ4XsuluiWTUbUpPzYQ-QdOumEEKhwZHw7S8hwwhF2CzbO3S-0/fe9xgsb889e04zu/depredador.tierras.salvajes.hdts.mkv</location>
+      <title>Depredador: Tierras Salvajes (HDTS Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
@@ -39,7 +48,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1580.mediafire.com/0hkbaunrd2kg27CSFXOkE9aenYyd0areYqz87vP4Q3cRmqxtdGY7spa1G2GH4XEN-yBe1nnMiwh9Mi-2ATKaTwY-Eozt8wTZutNnkcVQwYo6bY0JvTPvYt2AEdnI4BVZ2zrpEspzHG-lBsRqFeWaD06QAQxhWRNAX_3TLVntqC4i2vg/d1bcf7kev193oss/Chainsaw.mkv</location>
+      <location>https://download1580.mediafire.com/4ip4rtef61kgfgcXT6gbREPp77Vtf2OJF_M0u9mkMRlO0NDjvdT7xnqvKpPyALsHwynNPG89P5fgSquOtgFuJbJd7WyUjpyKnL2kMCe5lThzQLuI6_LWBTS5Byfa66BORomqKPXNPYEuPQZNMxO8wq0FC1RfgL_W4nZSMsV28LoKICY/d1bcf7kev193oss/Chainsaw.mkv</location>
       <title>Chainsaw Man La Pelicula: Arco De Reze (HDTS Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -57,7 +66,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1980.mediafire.com/t6f1dqkhtwsgN86YEUypcFIk5oc-ugwfJY6JsQ5ERKaXyd8nBkxS_7c5a3F-uHvyGMa8HEn1tdKEYZkQKZokwKFgEsz_ZeBChgUqcrK0-W0nWtrC2Jt_GPih74Y4pIr1aBeWHGQKQGfjFY0zKHc_f7CY78C5Dp_0qY_H3yjavZdjXdI/4s0i7yrerpbv28z/Jesus.luz.del.mundo.%282025%29.mkv</location>
+      <location>https://download1980.mediafire.com/gbhhh9rt3togMMwy6R8oGCwa8ecg_rbleS6IIv5iv1C09AzhsDO2UqUgNqaoG6VVfkp3xvK097-yTLBMUpkdRipLcQR2CpStSmu6vMdavg_LirvRYfuQuYwsc2LMJP5nARnd6GwWpu6QlejoGlcm3lEd-zKqcOdbLI-ka71S5v2SOsU/4s0i7yrerpbv28z/Jesus.luz.del.mundo.%282025%29.mkv</location>
       <title>Jesus Luz Del Mundo (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -84,7 +93,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1348.mediafire.com/p7ohxt2coksgmbhcj2UqDiQevBjsu0crbY2a6ZB_MxOtgWJUSO4zmGnG00B23k2mIVXvTWW7PIqkYlkybrlv72s9A-HwfX_Ktd7VWxPgXfF_tuhIPDZxpZp85ZYVpDIlXT4yaKM5Eh3_uLV39AhrU6AdbB0slsPEilf4gyeKdcn9h8w/uei7nmilofcupaa/Stitch.Head.2025.1080p.TS.ES-RGB.mp4</location>
+      <location>https://download1348.mediafire.com/5npruvuj16pg7Mjcx_GQUxtl5I6c1nwzE-cKXUwNITj3jHYidf9qBqsHg4xsZZ3R80BQZJNB9yko1KgdvAzH7YBqsTsDokYC9NFs8JYw9JbyY5NEPslC2CdmpAePs3gTFAis0CqKEzbvg-S0rTZPh0IfU9K1v9IZsiYkwCv28itlNC0/uei7nmilofcupaa/Stitch.Head.2025.1080p.TS.ES-RGB.mp4</location>
       <title>Frankie Y Los Monstruos (HDTS Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -147,7 +156,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1076.mediafire.com/rtpfuz8pm6ag5MJRKZbV-LIxXXYJs0bF4aA-3H8PBl24N6IBpK1yMi1svhQlnmByPwqeKEcuYkDnI-KkfBxcj4UgSPBGViRfRbDj36DCN6K16baYySP_ZuZgrR36EM9C4XAJkeu-G1Xns2nLQ9uMhCsfSMmnEofoK6yq4q-JrugBzEY/qth10lknnfqyf6y/28.Years.Later.2025.1080p.iT.WEB-DL.DD5.1.H.264.LIGERO-ONIROS.mkv</location>
+      <location>https://download1076.mediafire.com/09mm2ac2d2xghUDgFlxahujtrfXn1sqJAqYT3B-owMQxykD9nH6hHuTM3grqcTWzeEjry7CKsZECafouup3_daOAXACS8fOro1jU5sqvcBfweeDDDtzWAuSUM8po5hSmkhfEW_9C0jpFUNRvFQ5QDmp6ktZUX_7_wzp3S7AENaJHQOc/qth10lknnfqyf6y/28.Years.Later.2025.1080p.iT.WEB-DL.DD5.1.H.264.LIGERO-ONIROS.mkv</location>
       <title>Exterminio: La Evolucion (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -156,7 +165,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1507.mediafire.com/bm9wehiprelgt9YgtpRAPjyOuNFIto8RwdWe2fwaIV5P3PAFJzVPmY5YCkqfF3n8C6KgPPek6YRtBnLcWr7yB1lo9EaXtDBjavFA1nqEuU_cyUcF9reCbJFpSzd9tEjmb119r5IQSZ5uubc5JVh3Q7UDKuNjORPQ5C3fLtAu4NOWUvY/9may09aq1x7ql0x/HoneyFHD.mkv</location>
+      <location>https://download1507.mediafire.com/e7hpnejg3rmgvaDm6P6jT9PGKigbucDCSU0wy1ayJU00TBu6ixAlANv57yNmb2M3yeCu4nuKSXpAqHs3K_uqvChzKeYQ9_ZzQH1JgaIjvR4ydb09X925ubmxpXc4JbShcPwXn6NHapQH3TDIdvoDkBY-__fqWRy4zcuaO50TDU3GCOQ/9may09aq1x7ql0x/HoneyFHD.mkv</location>
       <title>Honey Dont! (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -174,7 +183,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download947.mediafire.com/a5td5y6tzhlgxHmmdGqGzjsDyEoV7N6yfSHO9_HhImJkOOrwJ1oEU9Q0yZzLV-JFHYMu3hMW65CD-EwUDsRXZJ7Qm4Ea-zOcYps03QHVlfJgXlSE8oCUnQDXbI133IvP-7INCuiZHPdKJo995RsXLASsGawihyPFFa8LSUtjyKHT7Ks/4nkopjcuklnu0wm/f1m.mkv</location>
+      <location>https://download947.mediafire.com/tbjjnptay2mgdWNxuXQAkKIOYL66kf8dXbu-dfWn5E8lNNkXo6Yj3nvK-wBIN-Gt1HhqoQzQot6Z68EPVhWvxTzlOErXfoUtmbqtQay8KVZ0YpM3s1LkJC1bpsOWR0xnPj8gfUMfVA1wMhzEpIK5RO1Xf49nlTt8JBhGCq2UACPHGe0/4nkopjcuklnu0wm/f1m.mkv</location>
       <title>F1 La Pelicula (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -210,7 +219,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1526.mediafire.com/urr7hsltwy0gFMozjRCpUUlgomUZd7ams81BxMuj4Aeeis0vbtiOKBzYZRTUHee6MvQ1DaNvMdvHMc0re1kGli1L2MEWdLM9HOwcjp8YDfvlD6Z8E0qloqi9mJcOu7ni4bOi20HwBMCqXT1uQdmSkN0CL8L2fcsbUDMZ63eNpfEByQ/utyvbqo2tguzehg/Together.2025.1080p.iT.WEB-DL.DD5.1.H.264.LIGERO-ONIROS.mkv</location>
+      <location>https://download1526.mediafire.com/3p1gra46qz5gN4PGxyS8UofBdwRDVKzrz_opNectqrBCz3o3RgONnX5XED34f3K1owgdgGSyRdfiFngzp8lGtm-jeWNF_zcnqc7JqFGrC1F5_kZTgbmMPC894UcQC1CYbX3KFRQDyEFZ8pzNyvLGRJ5opxGbHoKiWZ5GevF5JvHKr9U/utyvbqo2tguzehg/Together.2025.1080p.iT.WEB-DL.DD5.1.H.264.LIGERO-ONIROS.mkv</location>
       <title>Together: Juntos Hasta La Muerte (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -219,7 +228,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1326.mediafire.com/6dpi3n6elzzg4xPIpjH6kRary_WDoQqoqQf8yxog43091XD55OHVFFwBJyb2idJsot5glr30nyi0lnK62b6WUKrw8SNPKFFOh7hFvSlPICa6yS0wI20pbi9PU4jwf9zdVwAKfMDdMn3ROI-IzM9rRl3v2oYJ45faBaSQM4Gwy8YN_qg/8osw8evysgovlo0/Weapo.mkv</location>
+      <location>https://download1326.mediafire.com/pyo750cjdtmgxmEsfssweIZHNqBIXjXlL99suS_UfRADE2qQAijLWWH2b1mBETXjPh3RG7g4mU2MSxHJqqIf8hQq5ymcwQHjOTe-GNtSZJnRLO46Q-AdD_gFVRmiKYa-KdNmC96X8pPA7zQBCNtGxepFz4hlAuaM_lAjpvFc_t3mG70/8osw8evysgovlo0/Weapo.mkv</location>
       <title>La Hora De La Desaparicion (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -228,7 +237,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1528.mediafire.com/slaqzggvk2kgUXtd1Ewr7UxRNi3-_H7dliMatotYKtm7iukW9ijrIo57iHnuNlnP1zqBbCySAEDF0VC6YCnxTLGMJSkO0UqPCvSaznqaVIFjOr7_0HjWyanDW_4OFGN_Hh5MLqPNZXcu1IF22oJICorBcCDI2M4cyzQOxvOy9v1Ong/bcthpsqh7m6u1jl/La+Vida+De+Chuck+%282025%29+%5B1080p%5D+WEB-DL+LIGERO+%5BLatino-Ingl%C3%A9s%5D+vip.hdlatino.us.mkv</location>
+      <location>https://download1528.mediafire.com/lyvb75ni0x2g8McMq_Yt5Rbpye8rZcam10bkaZCvduy1fJE1n5PP9K5NMgAmv6vc0pS3ll2KSSqE1ghhGn2mLdeEEa0rMZbpP7JHwpH6stD7Lg3CBvOEfCWB_gSWe_nC1VqkbZci5vX_yqJpUE4gbjupISJizW_EbgfWJFRHAilwaHo/bcthpsqh7m6u1jl/La+Vida+De+Chuck+%282025%29+%5B1080p%5D+WEB-DL+LIGERO+%5BLatino-Ingl%C3%A9s%5D+vip.hdlatino.us.mkv</location>
       <title>La Vida De Chuck (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -237,7 +246,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1476.mediafire.com/uf7oyhjhwe4gLYMCkcnwrTU0yUoKg5-APKmqdZnmLfKV2QGXZgsJlerIyte4TWDQymP8a8Bi07aCW43Uxl2L6__lUiAMDZO97QkSoPmXmLoNGetxtWzT_m1p9reJ-QZtCPNoD9v3DImCJsGkPxfVMCFHKs5tQkqilgSO9Qy-yMwzoQ/2b68foky82ax5rc/Los.Rose.2025.mkv</location>
+      <location>https://download1476.mediafire.com/alsyk7frufzgYGevXixcaCxa6moTAXBPrNmmUK3183sDmbAvblc_g76EXLoUvkzo_IVn6yfGHo3oq8PoMWnttBvDtD13EPUemjzPAMkWWbFxKgEEhpSZyTQuPMV247rmVB2tu-boJSqraoDoz9Q9_A8uaaD3YC0p7CEJ83IZMXh8YDg/2b68foky82ax5rc/Los.Rose.2025.mkv</location>
       <title>Los Rose (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -246,7 +255,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download937.mediafire.com/5yay6j7yzm2gnCt3DjnXti9tJHHF9dZRs6DPbBXrdNmByWqaRPPpmsOmdNX1reYmMckDODIXj4toLC7noiVUUvAbCaevBMLQWiRZseh1-qVkfedb8ufobd0X2ZfnL2DXbD12AQajBCHhPpJiu9z9JDitd2TtefbAgHRK_6Y8U7Rss8s/anljz2cg801uy7j/Caught.Stealing.2025.1080p.iT.WEB-DL.DD5.1.H.264.LIGERO-ONIROS.mkv</location>
+      <location>https://download937.mediafire.com/8ect55am9kxg-zICGNYEFlzKQdrb9jQfIX9o9eSYrke44Sv9zHOMVJZM504_5jOAEzEl3Ro894PeTtZUkiEJpFNNW8PkKNDWKNTeOoZv5tId246R4iALPfAQS7t6c6woKzeLYjncXyouF-Se532uqKb8D4Jrn64Cdtt8q-peLo7EiA/anljz2cg801uy7j/Caught.Stealing.2025.1080p.iT.WEB-DL.DD5.1.H.264.LIGERO-ONIROS.mkv</location>
       <title>Atrapado Robando (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -255,7 +264,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1655.mediafire.com/02aplnlzyv9gAoB4kFEkQ4GDZkc0_e2fIOEKYHT2gbTfuK8XId_x5zNf-fwNp-vgsL1WUSv6kqTCjT5nNkey8QiIbSbp_Fq_cEcFNVcFD8S_wwhM3Fk7yUDFHiQ0hGEXViJdvW0qsxe0rnSG4vG6hX-Y64kn9Ky8G8N6TWP5VWQIbG8/0t3wjlzxnjtexid/The.Conjuring.Last.Rites.2025.AMZN.WEB-DL.1080P.LMHD.LIGERO.mkv</location>
+      <location>https://download1655.mediafire.com/ueopsglj431gJoho-cQ6OHR2cOprSO78om6WnCkVkj9grEiTly104QZZvvxI4yii4u_D9HGwntw4pbVXpgwimXtxfJ2V8hnZ_ouMwuqFc1mqGliRAXuoZQA_yPuDrNTwSJm5fItxo0J8SvH7hPYYaBr6wZxeDHL5t1dNr6AY1pqlmQ/0t3wjlzxnjtexid/The.Conjuring.Last.Rites.2025.AMZN.WEB-DL.1080P.LMHD.LIGERO.mkv</location>
       <title>El Conjuro 4: Ultimos Ritos (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -273,7 +282,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1638.mediafire.com/8l4t78jgidcgOISZIR-rz7HrcWA7fTUySYZ9Nv0w0GZKGvCH9-rWtsLeGWA2RMaO_BCOWyc0UefG5vVZAAfylIoRFIsUOFgrWGgo5ZyHc1lT80ixG-24eF9CmcO7MtUKxjCmsnQRqPIkJWj6ydM6YRJjo3HVA6pQsOjHLNU40VU-YfY/86fqif7f0ioncyo/Mascotas+al+Rescate+%282025%29+%5BFull+1080p%5D+WEB-DL+LIGERO+%5BLatino%5D+vip.hdlatino.us.mkv</location>
+      <location>https://download1638.mediafire.com/iz0hmpg5dnng3b3qV6jLFqpiUoG0HQAau-oKxkJHNU2Wo_1GLk1JB_TfBcE4OIDe8I61WsVbC5bOH3017b3IGnKlzItYtDFwWt4sB3NUGIioG4uBcsavPeGUvJ6wEE23wPPF8s7R5BvKB6teNb5-lMEi6gKHobj476QEEQ5FJy4BU6I/86fqif7f0ioncyo/Mascotas+al+Rescate+%282025%29+%5BFull+1080p%5D+WEB-DL+LIGERO+%5BLatino%5D+vip.hdlatino.us.mkv</location>
       <title>Mascotas Al Rescate (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -300,7 +309,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download856.mediafire.com/9ekt2abfzdaggsgvcZlGm_CjWqxMfmkkFr9KYgkPm9NhGsTXLdvtHfqexYRf0LwY42fgJ4ZpZk_yV_c8lZfEY3NCUtnME0g1x55JSFbiadG1xCYiSDFvYd0iFhiBsnlF_372Zrv53fnOT0tBZiRSUEBqHD8FUpmRziHhXVTFPKEI_A/7ghwogavn1e6px1/The.Strangers.Chapter.2.2025.AMZN.WEB-DL.1080P.DD2.0.LMHD.LIGERO.mkv</location>
+      <location>https://download856.mediafire.com/th7edno5vkugyeeiCa5iIo2Iyr5eQKXPcvyITj4m9t4jcv9RZmQ0wtSWQpNAfNYf1W6NpeSM0VPYBub5S_c1K9fuZXLJNBn2vSOt8ikGIhMSHAGPT411fklEOml8a5I7JcuQEpte7nkWeoSS4DQB3lbH7yMv6mhQ7z5j6oyi2fWjQ6E/7ghwogavn1e6px1/The.Strangers.Chapter.2.2025.AMZN.WEB-DL.1080P.DD2.0.LMHD.LIGERO.mkv</location>
       <title>Los Extraños: Capitulo 2 (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -309,7 +318,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1335.mediafire.com/p7uf4q7ehfcgEdPLuP4FPhFhVKgtAz7tQZ9K2vZu4kYcdlRA3bGiPlhmMdUqaaSGhNYX3wxQ_ee9-ETp6dJgwDZlwl61BrzVVwOS4A3cIr3K5V5i2eLRRip-mf3RLusVO47ZYowai8g-SIzh7uQdymVUAn2ZxwHUqezOmkYeO4g0_wc/6avzsowxmpvyaq5/The.Long.Walk.2025.1080p.AMZN.WEB-DL.DD2.0.H.264.LIGERO-LMHD.mkv</location>
+      <location>https://download1335.mediafire.com/i1vjpzxfpvugfyS2YvC3eefwgtd7VGHU70LSetGbt0wwDjV1YI9mMEOyjcDQ31AoKa8_v1G9T69AB9fMdVyEk4NJ0LaYt2DS5Nbe_2R8_IQFQ9ECVYycal_j6whdyj1lx35mEPQhDIcMfao02KzBExU2YR7khHC3x9gIRB3c_XO-8g/6avzsowxmpvyaq5/The.Long.Walk.2025.1080p.AMZN.WEB-DL.DD2.0.H.264.LIGERO-LMHD.mkv</location>
       <title>Camina o Muere (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -327,7 +336,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1334.mediafire.com/a9aagk7k36xgGqhoMdoHB7A1_aFT0MxlT_3JpR-Ab8IW0v9RGF15AHKDtCdb9fOFLTeW-iYnW-gs2F4M8lCmlH8pu3xHnOH2nSNNktJmyAL7g7misXziouNKsB_36L4kSJKmh3LjGU8b9Dyjofg-_WBK_9JuWIrzETc0hzTX3VbgPw/cssycdqb6cx5jro/200lobo.mkv</location>
+      <location>https://download1334.mediafire.com/1iegss7zemtgDrX8eQMWCmNB05_hQEH31Fds279fmRJLxHWPQH_gN45mf7jamhDrDDeX5nqJ2FFbPvHZrEPybRrJ9GijlFbPBpsJk2rWLQyVw-GXMXWwxdC2mSzNVbmKwJZJtn1b8z7iRzyCmbDMpbQZ-XWsJBMtyYdI1Oq-Q_4t7_E/cssycdqb6cx5jro/200lobo.mkv</location>
       <title>200 Por Ciento Lobo (HDTS Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -336,7 +345,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1587.mediafire.com/r7jash6jauygpz_QnF8yYp3nDvqLbR7eMPnkp-jb407QF5jK3WxrErS9ItTVGaxj3C1j7x6OaPQl2ixnbk6RMpgpOO_Ka6tFjGMG2NMmtNUXdHKg8WLktY9P72o9VM5nq6hhpm8WMdeE6-2RdjQWj6PvGSJvdBhlbWnmcRC1gnxZcQ/z0im28x7p25rszj/Aztec.Batman.Clash.of.Empires.2025.WEB-DL.1080P.LMHD.LIGERO.mkv</location>
+      <location>https://download1587.mediafire.com/wk23cse9ot0gF8c5gjTXH5ktSr2FgfnYXRGB0t71QlzmVqvD4XOAc4ESuKxbCF0s353k1sGzUzeKdHbBq2gzEbBANQYqIgw86-afPDS0TJnCvS5-bTPlrEypS6SjcG30YZz0qVYYzO2J2Yv5qImc61gXpfh21nu1BjQZtZ56EtzGdeI/z0im28x7p25rszj/Aztec.Batman.Clash.of.Empires.2025.WEB-DL.1080P.LMHD.LIGERO.mkv</location>
       <title>Batman Azteca: Choque De Imperios (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -363,7 +372,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1528.mediafire.com/2cinv44verqgP9QHqeRndAFLXUwcqxpKxZxTOw-D2e7pPi50an4rACNJDk-kdSaM8TifCNnXWH2orxzBPTEDnuueypDzUCa2OsMaFUqUbeDAbPB95UMcgLXBQMNIn7KcIA9cpYKus6KM-OzIdAf78mYlwdRN8oGhApXSh4X8CFjF6g/b29g6ivt2ezo3it/Smurfs.2025.WEB-DL.DD5.1.1080P.LMHD.LIGERO.mkv</location>
+      <location>https://download1528.mediafire.com/04s0yldkde9gy00FhpiJ_zVbfwh-DF8bMaYeWPeBncy3ecQRO5RGuFxCBFI4ua4kNxF_qWhLJHE6odUVFtzhvvnb8V7-huQH7d_8Z8BmEwuNHFsLCM05fLnOWclQWUqZ02A5sWpv7mEC2SxSXg_L3Jiy9zrdkzQulv8kqgv-dpw9iks/b29g6ivt2ezo3it/Smurfs.2025.WEB-DL.DD5.1.1080P.LMHD.LIGERO.mkv</location>
       <title>Pitufos (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -372,7 +381,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download943.mediafire.com/bcdle3axfjlgcXanHbsyMXjvKc1Opj3C39KbIs1QEPDrHZz2vGQ-GNLJDvvBxpPIVs-v3OQdOEsmaWKfc-Uc5QmpLyhEyTt5yB5tPiObepIKHf7EMlM39qEtbdp2A2ExMWWivzQVtbT_1A3q3PYt-9qI9pV6SwDc918XCw7wGYeNT7o/xwb8v5q3sksa9se/Final.Destination.Bloodlines.2025.1080p.iT.WEB-DL.DD5.1.LIGERO-ONIROS.mkv</location>
+      <location>https://download943.mediafire.com/ph3ib2q22fngO4AVBdXDhU0ldH0qtX1KBmSZcSHqo5Cd7hmbTCGNPH0X4wrH0CMIsxShhQeLubtNKKZqnsgxNnwdz00KdFzQQTgjZT9rm3iD4x-Hn-KBKiePqAB-DrobvmuVb0Zb3oikERFrIUDWOPNTG2J7y8ibht2jYmPpSLpMYD4/xwb8v5q3sksa9se/Final.Destination.Bloodlines.2025.1080p.iT.WEB-DL.DD5.1.LIGERO-ONIROS.mkv</location>
       <title>Destino Final Lazos De Sangre (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -399,7 +408,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download851.mediafire.com/0m10stotncrgfOLYY85kkQR6mPh0k5V0aixmh3lzvAniFTrWgWgcaJen942ki7My7xUOeshCOdlP0N1e6l0keqBQ_OkACetww63_VAprt8Aa4Wa2pXpZe2mlPnbIdXqimnycjXKEZo2y62MbuOYm03uj8fG38y8ceAlkAQF_OUH1BJw/pmnjn9qt6yso2c5/Tron.Ares.2025.1080p.HDRip.H264.AAC.2.0.LMHD.LIGERO.mkv</location>
+      <location>https://download851.mediafire.com/0k6sjjsz8fqgSDwESbizB8VHRpXsMwUp6TdHlQ4zhRRpuxjCK3mAgA8-FGhTng3BoGdg5ybfYEtQ_MoEBchahSav6Mh8pnTRLHgKmb1vjl8xbt0NdnPmaF1tIEsbC3EkkITwvIG1KEN9AI1j8AUABTER_LXzU1OOZnCFoHeoU5CjYPE/pmnjn9qt6yso2c5/Tron.Ares.2025.1080p.HDRip.H264.AAC.2.0.LMHD.LIGERO.mkv</location>
       <title>Tron: Ares (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -408,7 +417,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1511.mediafire.com/sm6094v4hcdgSEe5d1_U-8t7D1QGRknMDTq3wSKXaSK16uC_iDJ9oxVXEPkO75P0Yk25uM49JNd1aO0JjLq297BA-GmYr5cluRm1CiFZVxl5tYYTDV8nXoriEDa8RbVg3CwaoK7y_N1VxxaMVAfqUe3zDWRKxPI2FoapCyBCik4c3c4/aj0oglccwazclk2/V+H+S+HALLOWEEN+%282025%29+%5BFull+1080p%5D+WEB-DL+LIGERO+%5BLatino-Ingl%C3%A9s%5D+vip.hdlatino.us.mkv</location>
+      <location>https://download1511.mediafire.com/3xw31mf6pzugYHcDqGf-fEJWv7qnBByGxXbFghMLyDcYok8oWqhJPK1XLG8IT4BICB4PnTeiYmttUb3rCcjli2DnyRKoJtvI0TbancAfxXF3ogU-f26LwPgtxIV9h87iZBjwilJNehf8duKlLY7zjAFw5P0BBiLy1JrW1wI_2zVNEL4/aj0oglccwazclk2/V+H+S+HALLOWEEN+%282025%29+%5BFull+1080p%5D+WEB-DL+LIGERO+%5BLatino-Ingl%C3%A9s%5D+vip.hdlatino.us.mkv</location>
       <title>VHS Halloween (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -457,4 +466,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
