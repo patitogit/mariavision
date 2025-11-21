@@ -93,8 +93,8 @@
       </extension>
     </track>
     <track>
-      <location>https://download1348.mediafire.com/qwcooedr2gagzbf9GtfazYIRNXk10PNLxuJJAb8_o1PPX4ABGJ3p9qvTARK6m97iZMbkN9rC2RpBFP1cIlZStzpRok0F3ph0aa1bP2TDuDy3lcN9j-b3z8gL1bPEiPkh68etT9-yNq3jUhV76r53J_3VFh7TPXICN0hSMvpLnqeILQw/uei7nmilofcupaa/Stitch.Head.2025.1080p.TS.ES-RGB.mp4</location>
-      <title>Frankie Y Los Monstruos (HDTS Español)</title>
+      <location>https://download1321.mediafire.com/ou9stftcbqsgj_ZQaoflBpzd-4Y_vrtcX4qtZUA8xQ5GAKQnyvHorOPvE2V82N4fiOoMLwNJWRmthaFZBxTT9Nj-dNrk5kcOSYy3vagifwamnwFYFCtAT7A97UjZdCV4FOyosYLhY3qw8w0ArMrGB-gO_3wxAoMOgI81BVphrKYwunk/czi2zkys12e2ucu/Stitch.Head.2025.WEB-DL.1080P.LMHD.LIGERO.mkv</location>
+      <title>Frankie Y Los Monstruos (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>10</vlc:id>
@@ -466,4 +466,5 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
+
 </playlist>
