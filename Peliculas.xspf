@@ -48,7 +48,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1580.mediafire.com/4ip4rtef61kgfgcXT6gbREPp77Vtf2OJF_M0u9mkMRlO0NDjvdT7xnqvKpPyALsHwynNPG89P5fgSquOtgFuJbJd7WyUjpyKnL2kMCe5lThzQLuI6_LWBTS5Byfa66BORomqKPXNPYEuPQZNMxO8wq0FC1RfgL_W4nZSMsV28LoKICY/d1bcf7kev193oss/Chainsaw.mkv</location>
+      <location>https://download1580.mediafire.com/sq9qptdievagHYDvY1--vgILL-Gp3VWJD5Aeaw8vrt2vCsnmsOzPPzQCtcevBhmCeg5kESCFYLErOMVGNchMsTS8qxyDvGoPMGs9xBDgQfe9NBacKZLv9mAh0HX151fX1PyWmtYFNvhD5lDRb_dJiJxnNS_ESTr2imcoQcRVPNBond4/d1bcf7kev193oss/Chainsaw.mkv</location>
       <title>Chainsaw Man La Pelicula: Arco De Reze (HDTS Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -466,5 +466,4 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
-
 </playlist>
