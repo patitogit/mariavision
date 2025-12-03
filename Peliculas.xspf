@@ -237,7 +237,7 @@
       </extension>
     </track>
     <track>
-      <location>https://download1528.mediafire.com/ogkn3eersragykPHma_pV68HW2nPV7og9_Z-va9IVXseVamsilu5OKvbq3Faktyvl2NmxLqtpRhY1s99npVwqx0GEanNLvUu0Hkt2n5GL7SzsA5Gu3xC8RWfUCmPQuPduU_0J9vl-WyF006PjShiY7KMbVn6roIZsdwaV3XKC7HOr7Y/bcthpsqh7m6u1jl/842924.mkv</location>
+      <location>https://download1528.mediafire.com/g2lj95j3vhcgHZ_6N-b-1HJMzoJO9N_FYOrrGjedgRpM7o48kjqq7eDMaOcmduyppXTnUaOKTNImdzsBSpUsdejPKv655HzqmjsYx6VbPrAvUYFgUYlNLev232nJK17BiGHUm5CrQACHSBXtc1cV9nTW7Bzf4aG9y8dgnvaRRAQjQ5s/bcthpsqh7m6u1jl/842924.mkv</location>
       <title>La Vida De Chuck (FHD Español)</title>
       <duration>29529</duration>
       <extension application="http://www.videolan.org/vlc/playlist/0">
@@ -466,6 +466,4 @@
     <vlc:item tid="9" />
     <vlc:item tid="10" />
   </extension>
-
 </playlist>
-
