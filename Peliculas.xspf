@@ -3,6 +3,15 @@
   <title>Canales de TV</title>
   <trackList>
     <track>
+      <location>https://download1589.mediafire.com/lpmqdstp8v9gHsZI083cFx3Q7p5Dac320QfmjDgv_7JWoeSw-INbNg9ZkeHkBuhPfmJ7zUC6eICM-gIrJPMN48-wkr9s0IUOz0IFn8TzNJM-R6bDGjKbYf9B3LYW5GJm5ft_sjWaXMdQyIZtRAp1VllcbY8afcEhNfnpmBB8kzzAnBc/cciz4e2ufrx6em4/1180831.mkv</location>
+      <title>Trol 2 (FHD Español)</title>
+      <duration>29529</duration>
+      <extension application="http://www.videolan.org/vlc/playlist/0">
+        <vlc:id>10</vlc:id>
+        <vlc:option>network-caching=1000</vlc:option>
+      </extension>
+    </track>
+    <track>
       <location>https://download1478.mediafire.com/3deg8g446rngZ3rfIO0Y4u-XqQt9HQfWAaNkdWmA0eR5W_QrIQAqKIItyJ5175nZHYPfoWqhUXfBDk1ETN_-b7X8F9RtNNXTQZ-3FfdscUhr5rkoLKlaVIiwZzYA0_yWLZczNW8QUab49JrdkTeQlzmn6TbEWKw4LnHA-rERXQiNwpc/t229i74wan3rklz/los.ilucionistas.3.mkv</location>
       <title>Los Ilusionistas 3 (HDTS Español)</title>
       <duration>29529</duration>
@@ -468,4 +477,5 @@
   </extension>
 
 </playlist>
+
 
