@@ -3,6 +3,10 @@
   <title>Canales de TV</title>
   <trackList>
     <track>
+      <location>https://download854.mediafire.com/o8cef0tjexigKRWvCStJeh1g6iaE9wMVsbLMCOKkFne2vLhWiO8jbyX-Mj34oB3Vsjiz4Ld9aQDxvwEBM8A8Wer-OtlWS1BHh0wd4hpt8r2fl-acgaJLhT8eoSQEsFKNPpxBFhjgzoeudnWtPDdIEDOLc8YZqiga89OH2JQJPSeHJHg/n7sx2uw8nzgwk23/Avatar+-+Fuego+Y+Ceniza+%282025%29+%5B1080P%5D+Hdts.mkv</location>
+      <title>Avatar: Fuego y ceniza (HDTS Español)</title>
+    </track>
+    <track>
       <location>https://download1347.mediafire.com/8bnw2vx3t8ag4NmV0ROI9RMapORCJXIcIivbR-VhvA2-bASm2GR3sCf_d_FjZgzyLvTRmKK0RD-Ab4fE-Ne4RFHYsfEGq7tpDl3_uigbzD0LiVo0-QnndKbwL-F8pCx_te44_FexwJPNlXdVdPtGaZrleyXPXhdwijj8yxAVul1abDY/b206p0zrgr4mp6m/1084242.mkv</location>
       <title>Zootopia 2 (HDTS Español)</title>
     </track>
@@ -258,4 +262,5 @@
       <title>Mente Maestra (HDTS Español Subtitulado)</title>
     </track>
   </trackList>
+
 </playlist>
