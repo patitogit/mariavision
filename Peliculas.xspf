@@ -3,6 +3,11 @@
   <title>Canales de TV</title>
   <trackList>
     <track>
+      <location>https://download1588.mediafire.com/6lnxk8k7uoggLe13ef9f7IxDZEoNBTofVhAsI0Ry0L-dsut4LKGE2JQKUViVzckZEtAiPiA8Wpj2-Eyr1cXrGyFUKbNl2tnmIOWkZPXukVXRzRznQLrC253-wYAiPYnl0f4E3gAi63RRf8KWqm4Ym2MiehtPLXwgMMyIzQ2RdhqYLmA/phnz1p1r7veidkz/284054.mkv</location>
+      <title>Pantera Negra (FHD Español)</title>
+      <id>284054-g94</id>
+    </track>
+    <track>
       <location>https://download1587.mediafire.com/mdl340iok5vgPjY9QdxRltvutQF5Z9AHTxsPeznAtRBK3Ytm0TUBWo0NELYeKbWYojFLPNbUydZAP_rbH3l3mA92GhLsnNtkqUExoulfZmtK9BkteGdc4Q9n-fxHmx441RyT57p_6gXkrGrg-9oVltk1yyiYKnZNZebPM9NZFiOWcaQ/6p762jniebzws0v/271110.mkv</location>
       <title>Capitán América: Civil War (FHD Español)</title>
       <id>271110-g94</id>
@@ -973,6 +978,7 @@
   </trackList>
 
 </playlist>
+
 
 
 
