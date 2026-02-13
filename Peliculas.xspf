@@ -2,6 +2,11 @@
 <playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
   <title>Canales de TV</title>
     <track>
+      <location>https://download1077.mediafire.com/fr8guractbmgbfBVSXHY_yiR5WiJ4LRjohQc2WJoIsu7kWmlgqHjhqfbSlehpEkp8jySqYmCExEFybr9bkl79w1ApUaBl3I5f2mLxHg98j2uw9ImsoK5VJl3VoLBz69A4S2Cva-6ph7NMBjc2-isznNaVrs69JO9Q9HBOzB5lxLAZTg/f5lhgb279im18cs/550988.mkv</location>
+      <title>Free Guy: Tomando el Control (FHD Español)</title>
+      <id>550988-g102</id>
+    </track>
+    <track>
       <location>https://download1076.mediafire.com/re57i40jv0tgBZaM31ww_z5QlD01GWDWuGFMUJ9D9yDsl6MIbic2u-6dCI8yVJV7cCPbDJ6Zqq-wI9wEnAzzj14hrDdTm_j08QRbeohegQeffarekyB0Pr6W88p-Hl8vUNZZfV_LpQwmgu0W-fdc4DmJhY8jgRPPUNtR4BND_gPTGCM/hnyhn3zaxkxftwr/1087192.mkv</location>
       <title>Cómo entrenar a tu dragón (FHD Español)</title>
       <id>1087192-g101</id>
@@ -1053,6 +1058,7 @@
   </trackList>
 
 </playlist>
+
 
 
 
