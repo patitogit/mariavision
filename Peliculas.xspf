@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
   <title>Canales de TV</title>
-  <trackList>
     <track>
       <location>https://download1588.mediafire.com/48hqrjluw4rg4xmsTINNj1pMNM47I_FHYUtZrn-60MzEXY0IXbApmIFV5pXPycQKmh7aqOqDSaxAvXz1Cg6j7YnMTQMXQ9eZuEDuZ22XH03N7yfLyB3e81O7GqsAYJ0GcdHX608xdvsB2uiyGtggsRm9HeWVBnipZWUpDGhJ-pONwyM/5fs2en2r1opuiu8/573435.mkv</location>
       <title>Bad Boys: Hasta la muerte (FHD Español)</title>
-      <id>573435-g107</id>
+      <id>573435-g107/id>
     </track>
     <track>
       <location>https://download941.mediafire.com/syfucs2vj5rgkQFrDX7_j2PRqrFcc-sheuzZ4pTaqyMToUW4wNQsW7NfoRnc5DFPCtk2pkDDUxhE_gafA1XaoJ-P-X-NYfqgRnkrV6qvDW_y4lojQaYg_DirupEXPHyBwdcr0ID_UGamvpDvsszRagzQt3oE3XJCKPtnsRxbgDch6VI/021p4lldc50azng/20352.mkv</location>
       <title>Mi villano favorito (FHD Español)</title>
-      <id>20352-g107</id>
+      <id>20352-g107/id>
     </track>
     <track>
       <location>https://download1350.mediafire.com/o1rqno53k11gHK-5-uSy126LyQQRsRSAmQfuZfa7TGa_dEKczVIHqAwW2qj8bf5YeUTOVy_VEXLDrjUDwW-t13USbfjYxTF9l6dkavRM_ZRD5vmh3vfS9XWV3H6S7gXJ3mvN1bo6fPa_2gNo6q5TeW9tp9p6-1QMZuasKLLxR1ip9y4/q2mumshsuhh367l/1071585.mkv</location>
@@ -127,6 +126,7 @@
       <title>Intensa-Mente (FHD Español)</title>
       <id>150540-g97</id>
     </track>
+  <trackList>
     <track>
       <location>https://download1531.mediafire.com/8tk67gfhfkfgspXFr59m9oGBfKf26m4uq-MXTrEhG-Gx3_0adOpK35V8NtFVYCNrUEclV6Zutew89iMrIcgiki2dukhlKfXS3nETxhUwi5FXD4ud_socU51qnpe8maXylOPUOjQgEU7-st8zVr4oFAXYO6Ag8SLnTyP9N4lh9hDpoDc/ffj8i94plpgma7t/315635.mkv</location>
       <title>Spider-Man: De regreso a casa (FHD Español)</title>
@@ -1040,7 +1040,7 @@
       <title>Diamantes en bruto (2019)</title>
     </track>
     <track>
-      <location>https://download1323.mediafire.com/ozskfz8ulxwgbRq9br905tlA1cWfiv2hxtcPxof-7RBGRDu1HNHaI9ccwgsXLge117kCZXpe6PQUnkkrkh7-A5qxJd0CVuuOV_KjA7usCpTXZdvUt3YsTa_4lLubwyKmsdijZmw0Hj2FLpEf7vKjoWfr_vFs2Cp7j1vN7ivh3u0cqzuO/yi1cjy3c0xb0i4t/548564.mkv</location>
+      <location>https://download1323.mediafire.com/ayno5hbshkjgkVKdc7HdSLuXNKjDii7AmzBLhM19_gqtyr608eR20MkV9CG5VztgSqPQTotFVracfv2G84rV3py_0dP2L2_MZdLERYVHWzkk6tmtnTETQANNd9qvNyFuaenjfj9HxsVfUI-doAx-TYEiUkE8QisWyhCrZHPz2DDxCU25/yi1cjy3c0xb0i4t/548564.mkv</location>
       <title>Morir para contar</title>
     </track>
     <track>
@@ -1123,8 +1123,6 @@
   </trackList>
 
 </playlist>
-
-
 
 
 
