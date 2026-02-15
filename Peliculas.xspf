@@ -3,6 +3,11 @@
   <title>Canales de TV</title>
   <trackList>
     <track>
+      <location>https://download1592.mediafire.com/ewu6bkjofbagyDeFg2wV0fwMFix5H1JdtKXyhhHKHKti9pkhhwLLA3mdLH376w7_6OrPrIhXHES7ke0JYGcJwq30rlIQDhr90qaJjLoGUI6SISS1j5YSJoQV75VdGk-1LlAOmXt0KJ0rp_Jeia1Ph4mR-0sJ3xOWTp4aRM_MU5n3x84/k5964419sp9agne/1011477.mkv</location>
+      <title>Karate Kid: Leyendas (FHD Español)</title>
+      <id>1011477-g110</id>
+    </track>
+    <track>
       <location>https://download1327.mediafire.com/5lxl8vohzptg3EOh7JEMbj342guqFG-3QuDelIVl75qhkKhebcIMbvYGenSXwHIHF8VCNpkYbrPXqwkpt2fhApQJQeAMVYwnp_X2qvHfqVlXHBAweS19FgFUfy0Ftw_zyZWNK2dkr8APZmVYF_J9iYtijg4xtjYFOtxJ_9oVkxQslQM/603xz5wpef9wnu9/11507.mkv</location>
       <title>Doble de Cuerpo (FHD Español)</title>
       <id>11507-g110</id>
@@ -1148,6 +1153,7 @@
   </trackList>
 
 </playlist>
+
 
 
 
