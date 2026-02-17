@@ -3,6 +3,11 @@
   <title>Canales de TV</title>
   <trackList>
     <track>
+      <location>https://download1078.mediafire.com/3yoc0nxt9sogy3jzgyPxSnBygRSXzKsdwgbBP8slRIOZ0O4Ce5sPHon_XO_xmmGGKCUnn2ywbEoDNeqJv-KP5LzTEoUbHV6B0KzusxOb5wzBEH4sE5-rbUqragV7ynGtx1kpcVtjpzwvt6EgE_NOVrl_g8aTrrrEhxMxYrOM_4Y8Uew/rt26hty5g0013o9/284053.mkv</location>
+      <title>Thor: Ragnarok (FHD Español)</title>
+      <id>284053-g118</id>
+    </track>
+    <track>
       <location>https://download1327.mediafire.com/qyicf3nwmzzgM23U9D3Iyx4JjtmywS3c04GarabYRnAPZy94mJedp94czQYlz6glnuqkaQaG4cNXXXit6KPx7QbDW3_pJsrKHqSmEh-4XXAKrS81cRGPk7Xzk4FOTTWDNHULxHPQ_D54-Q4s-w0O6OmG3GoyciKghi0vS-rhWWFg9xA/fz20131ss9ojpa0/22.mkv</location>
       <title>Piratas del Caribe: La Maldición del Perla Negra (FHD Español)</title>
       <id>22-g117</id>
@@ -1238,6 +1243,7 @@
   </trackList>
 
 </playlist>
+
 
 
 
