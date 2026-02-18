@@ -3,6 +3,11 @@
   <title>Canales de TV</title>
   <trackList>
     <track>
+      <location>https://download1530.mediafire.com/0cvkf7psy03g1Cy6PXP8AuHhtd6Viu7hwAsTRk6px6zFP8sI6UfMtqLYGF4LyUKN-qfMBb67jh-yL4EFQqbgkcYPsL2Z3Qn-feq3c-WlS4EXPM-Lbbke_PfthH39aqHiRASqGECWvQE120u92U9JFmdVosrJyI-jjNH8CSE_HcPEo-M/qhel84l2dqmz0yk/218.mkv</location>
+      <title>Terminator: El Exterminador (FHD Español)</title>
+      <id>218-g129</id>
+    </track>
+    <track>
       <location>https://download1500.mediafire.com/8bfpzjzgbewg3r6Q9bndFl7lP6-J578aizA3V5Al3l8bYCnlSp9ncIrKrNqP38XpT1MCMxQZzPbvtyWYZTwpw1dZEA_164QwbTSICAPgdZgsCpKOFfuaGUMm25NwN7ILuKPt6SF19Frto2JlCHbbNJwybPcIAfZ7MoDMyjlVpVxE_i8/o4z1bqqonjsiu4h/1892.mkv</location>
       <title>El regreso del Jedi (FHD Español)</title>
       <id>1892-g129</id>
@@ -1358,6 +1363,7 @@
   </trackList>
 
 </playlist>
+
 
 
 
