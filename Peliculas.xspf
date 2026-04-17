@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
   <title>Canales de TV</title>
+    <track>
+      <location>https://download1528.mediafire.com/7y1z6jl1elwgVLjgt3VTS1NiO1Z6zc9nFok-orzVXvSc3suj3Eewj86jvWo4Mr_dWlRrlYcM4BZ-Kf4Hl5s8zXP--fo6tDFgvqy5lYi-dRifwafo2T5Y-Rc-w1XARB5-XYlLqwDejWFvUk4ZvGqrv-T3Bk3zZ-VCel1HF3kpCTuWXEo/jtesermdleyr0he/1363224.mkv</location>
+      <title>Nazi Supersoldier </title>
+      <id>1301122-c16</id>
+    </track>
   <trackList>
     <track>
       <location>https://download1528.mediafire.com/6e8ytid6rpbgOe096KT1g9gR4U2DsM_ObR6l1g8PZRKVoMUYYNb0z7OrVgjVu4ZoAMAVT3-tfL7ao-MpnSoTgSE63gK1ugUfqVf7ge6axtQv8m1qvrjvbaQN74vWMMrNhm_61y4W-kH8udQ1XVsYenV_OC018GqiVt-FlceIU_gfMv4/jtesermdleyr0he/1363224.mkv</location>
